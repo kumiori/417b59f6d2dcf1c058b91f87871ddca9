@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "Deterministic terminal trajectory for Hube Stop 01"
 requires-python = ">=3.11"
 dependencies = [
-    "game-gamer[tui] @ git+https://github.com/kumiori/113a4cce0c9191877e82b1a0b6767a70.git@439473d6ee94e59d7c0c29ba16ccbbc915c8fb97",
+    "game-gamer[tui]==0.3.1",
 ]
 
 [project.optional-dependencies]
