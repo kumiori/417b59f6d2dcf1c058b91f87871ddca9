@@ -1,0 +1,768 @@
+HUBE / STOP 01
+b: back one step · 0: cancel action · ?: help
+Choose who you are:
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Join as someone else
+  5  Player X
+>
+You are ANDRES.
+0 requests are waiting for you.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+ANDRES
+WHAT NEEDS TO BECOME TRUE
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+WHAT ELSE CAN I DO
+  5  Add something to the world
+  6  See new possibilities
+  7  Look around
+  8  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+VENUE
+0 / 1 venue secured.
+Offered: 0/1 · committed: 0/1 · verified: 0/1
+Known offers
+  none
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+b / 0  Back
+>
+b: back one step · 0: cancel action · ?: help
+Quantity?
+Where?
+  1  Bologna
+  2  New place
+>
+Available from (YYYY-MM-DD)? [2026-11-14]
+Available until (YYYY-MM-DD)? [2026-11-14]
+Which venue?
+  1  New venue
+>
+Venue name?
+World changed.
+Andres ──offers──▶ Venue (reported)
+VENUE
+0 / 1 venue secured.
+Offered: 1/1 · committed: 0/1 · verified: 0/1
+Known offers
+  Andres: 1 venue · Bologna · 2026-11-14 → 2026-11-14
+NEW POSSIBILITY
+Andres may supply 1 venue of Venue for HUBE / STOP 01.
+b: back one step · 0: cancel action · ?: help
+Connect this offer? [y]
+World changed.
+Andres ──satisfies──▶ Venue (proposed)
+b: back one step · 0: cancel action · ?: help
+Confirm your commitment? [y]
+World changed.
+Andres ──satisfies──▶ Venue (committed)
+VENUE
+0 / 1 venue secured.
+Offered: 1/1 · committed: 1/1 · verified: 0/1
+Known offers
+  Andres: 1 venue · Bologna · 2026-11-14 → 2026-11-14
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+b / 0  Back
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue) — committed / unverified
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+ANDRES
+WHAT NEEDS TO BECOME TRUE
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+WHAT ELSE CAN I DO
+  5  Add something to the world
+  6  See new possibilities
+  7  Look around
+  8  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+b: back one step · 0: cancel action · ?: help
+Choose who you are:
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Join as someone else
+  5  Player X
+>
+You are EDITOR.
+0 requests are waiting for you.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue) — committed / unverified
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+EDITOR
+WHAT NEEDS TO BECOME TRUE
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+WHAT ELSE CAN I DO
+  5  Add something to the world
+  6  See new possibilities
+  7  Look around
+  8  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+VENUE
+0 / 1 venue secured.
+Offered: 1/1 · committed: 1/1 · verified: 0/1
+Known offers
+  Andres: 1 venue · Bologna · 2026-11-14 → 2026-11-14
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+  8  Verify a commitment
+b / 0  Back
+>
+b: back one step · 0: cancel action · ?: help
+Which commitment can you verify?
+  1  Andres → Venue (committed) [rel_000003]
+>
+Evidence?
+  1  organizer confirmation
+  2  player confirmation
+  3  artifact
+  4  self report
+>
+Evidence reference or note?
+World changed.
+Andres ──satisfies──▶ Venue (verified)
+VENUE ✓
+1 / 1 venue secured.
+Offered: 1/1 · committed: 1/1 · verified: 1/1
+Known offers
+  Andres: 1 venue · Bologna · 2026-11-14 → 2026-11-14
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+b / 0  Back
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+3 / 6 conditions satisfied.
+EDITOR
+WHAT NEEDS TO BECOME TRUE
+  1  Date
+  2  Accommodation
+  3  Documentation
+WHAT ELSE CAN I DO
+  4  Add something to the world
+  5  See new possibilities
+  6  Look around
+  7  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+DATE
+0 / 1 confirmation secured.
+Offered: 0/1 · committed: 0/1 · verified: 0/1
+Known offers
+  none
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+b / 0  Back
+>
+b: back one step · 0: cancel action · ?: help
+Quantity?
+Where?
+  1  Bologna
+  2  Sala Comune
+  3  New place
+>
+Available from (YYYY-MM-DD)? [2026-11-14]
+Available until (YYYY-MM-DD)? [2026-11-14]
+Attach a specific place or object? Optional. [n]
+World changed.
+Editor ──offers──▶ Date (reported)
+DATE
+0 / 1 confirmation secured.
+Offered: 1/1 · committed: 0/1 · verified: 0/1
+Known offers
+  Editor: 1 confirmation · Bologna · 2026-11-14 → 2026-11-14
+NEW POSSIBILITY
+Editor may supply 1 confirmation of Date for HUBE / STOP 01.
+b: back one step · 0: cancel action · ?: help
+Connect this offer? [y]
+World changed.
+Editor ──satisfies──▶ Date (proposed)
+b: back one step · 0: cancel action · ?: help
+Confirm your commitment? [y]
+World changed.
+Editor ──satisfies──▶ Date (committed)
+DATE
+0 / 1 confirmation secured.
+Offered: 1/1 · committed: 1/1 · verified: 0/1
+Known offers
+  Editor: 1 confirmation · Bologna · 2026-11-14 → 2026-11-14
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+b / 0  Back
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation) — committed / unverified
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+3 / 6 conditions satisfied.
+EDITOR
+WHAT NEEDS TO BECOME TRUE
+  1  Date
+  2  Accommodation
+  3  Documentation
+WHAT ELSE CAN I DO
+  4  Add something to the world
+  5  See new possibilities
+  6  Look around
+  7  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+b: back one step · 0: cancel action · ?: help
+Choose who you are:
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Join as someone else
+  5  Player X
+>
+You are MARCO.
+0 requests are waiting for you.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation) — committed / unverified
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+3 / 6 conditions satisfied.
+MARCO
+WHAT NEEDS TO BECOME TRUE
+  1  Date
+  2  Accommodation
+  3  Documentation
+WHAT ELSE CAN I DO
+  4  Add something to the world
+  5  See new possibilities
+  6  Look around
+  7  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+DATE
+0 / 1 confirmation secured.
+Offered: 1/1 · committed: 1/1 · verified: 0/1
+Known offers
+  Editor: 1 confirmation · Bologna · 2026-11-14 → 2026-11-14
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+  8  Verify a commitment
+b / 0  Back
+>
+b: back one step · 0: cancel action · ?: help
+Which commitment can you verify?
+  1  Editor → Date (committed) [rel_000007]
+>
+Evidence?
+  1  organizer confirmation
+  2  player confirmation
+  3  artifact
+  4  self report
+>
+Evidence reference or note?
+World changed.
+Editor ──satisfies──▶ Date (verified)
+DATE ✓
+1 / 1 confirmation secured.
+Offered: 1/1 · committed: 1/1 · verified: 1/1
+Known offers
+  Editor: 1 confirmation · Bologna · 2026-11-14 → 2026-11-14
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+b / 0  Back
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+4 / 6 conditions satisfied.
+MARCO
+WHAT NEEDS TO BECOME TRUE
+  1  Accommodation
+  2  Documentation
+WHAT ELSE CAN I DO
+  3  Add something to the world
+  4  See new possibilities
+  5  Look around
+  6  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+ACCOMMODATION
+0 / 2 bed secured.
+Offered: 0/2 · committed: 0/2 · verified: 0/2
+Known offers
+  none
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+b / 0  Back
+>
+b: back one step · 0: cancel action · ?: help
+How many people can you host?
+Where?
+  1  Bologna
+  2  Sala Comune
+  3  New place
+>
+Available from (YYYY-MM-DD)? [2026-11-14]
+Available until (YYYY-MM-DD)? [2026-11-14]
+Attach a specific place or object? Optional. [n]
+World changed.
+Marco ──offers──▶ Accommodation (reported)
+ACCOMMODATION
+0 / 2 bed secured.
+Offered: 2/2 · committed: 0/2 · verified: 0/2
+Known offers
+  Marco: 2 bed · Bologna · 2026-11-14 → 2026-11-14
+NEW POSSIBILITY
+Marco may supply 2 bed of Accommodation for HUBE / STOP 01.
+b: back one step · 0: cancel action · ?: help
+Connect this offer? [y]
+World changed.
+Marco ──satisfies──▶ Accommodation (proposed)
+b: back one step · 0: cancel action · ?: help
+Confirm your commitment? [y]
+World changed.
+Marco ──satisfies──▶ Accommodation (committed)
+ACCOMMODATION
+0 / 2 bed secured.
+Offered: 2/2 · committed: 2/2 · verified: 0/2
+Known offers
+  Marco: 2 bed · Bologna · 2026-11-14 → 2026-11-14
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+b / 0  Back
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed) — committed / unverified
+[ ] Documentation — unsatisfied (0/1 commitment)
+4 / 6 conditions satisfied.
+MARCO
+WHAT NEEDS TO BECOME TRUE
+  1  Accommodation
+  2  Documentation
+WHAT ELSE CAN I DO
+  3  Add something to the world
+  4  See new possibilities
+  5  Look around
+  6  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+b: back one step · 0: cancel action · ?: help
+Choose who you are:
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Join as someone else
+  5  Player X
+>
+You are ANDRES.
+0 requests are waiting for you.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed) — committed / unverified
+[ ] Documentation — unsatisfied (0/1 commitment)
+4 / 6 conditions satisfied.
+ANDRES
+WHAT NEEDS TO BECOME TRUE
+  1  Accommodation
+  2  Documentation
+WHAT ELSE CAN I DO
+  3  Add something to the world
+  4  See new possibilities
+  5  Look around
+  6  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+ACCOMMODATION
+0 / 2 bed secured.
+Offered: 2/2 · committed: 2/2 · verified: 0/2
+Known offers
+  Marco: 2 bed · Bologna · 2026-11-14 → 2026-11-14
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+  8  Verify a commitment
+b / 0  Back
+>
+b: back one step · 0: cancel action · ?: help
+Which commitment can you verify?
+  1  Marco → Accommodation (committed) [rel_000011]
+>
+Evidence?
+  1  organizer confirmation
+  2  player confirmation
+  3  artifact
+  4  self report
+>
+Evidence reference or note?
+World changed.
+Marco ──satisfies──▶ Accommodation (verified)
+ACCOMMODATION ✓
+2 / 2 bed secured.
+Offered: 2/2 · committed: 2/2 · verified: 2/2
+Known offers
+  Marco: 2 bed · Bologna · 2026-11-14 → 2026-11-14
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+b / 0  Back
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+5 / 6 conditions satisfied.
+ANDRES
+WHAT NEEDS TO BECOME TRUE
+  1  Documentation
+WHAT ELSE CAN I DO
+  2  Add something to the world
+  3  See new possibilities
+  4  Look around
+  5  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+DOCUMENTATION
+0 / 1 commitment secured.
+Offered: 0/1 · committed: 0/1 · verified: 0/1
+Known offers
+  none
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+b / 0  Back
+>
+b: back one step · 0: cancel action · ?: help
+Quantity?
+Where?
+  1  Bologna
+  2  Sala Comune
+  3  New place
+>
+Available from (YYYY-MM-DD)? [2026-11-14]
+Available until (YYYY-MM-DD)? [2026-11-14]
+Attach a specific place or object? Optional. [n]
+World changed.
+Andres ──offers──▶ Documentation (reported)
+DOCUMENTATION
+0 / 1 commitment secured.
+Offered: 1/1 · committed: 0/1 · verified: 0/1
+Known offers
+  Andres: 1 commitment · Bologna · 2026-11-14 → 2026-11-14
+NEW POSSIBILITY
+Andres may supply 1 commitment of Documentation for HUBE / STOP 01.
+b: back one step · 0: cancel action · ?: help
+Connect this offer? [y]
+World changed.
+Andres ──satisfies──▶ Documentation (proposed)
+b: back one step · 0: cancel action · ?: help
+Confirm your commitment? [y]
+World changed.
+Andres ──satisfies──▶ Documentation (committed)
+DOCUMENTATION
+0 / 1 commitment secured.
+Offered: 1/1 · committed: 1/1 · verified: 0/1
+Known offers
+  Andres: 1 commitment · Bologna · 2026-11-14 → 2026-11-14
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+b / 0  Back
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment) — committed / unverified
+5 / 6 conditions satisfied.
+ANDRES
+WHAT NEEDS TO BECOME TRUE
+  1  Documentation
+WHAT ELSE CAN I DO
+  2  Add something to the world
+  3  See new possibilities
+  4  Look around
+  5  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+b: back one step · 0: cancel action · ?: help
+Choose who you are:
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Join as someone else
+  5  Player X
+>
+You are EDITOR.
+0 requests are waiting for you.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment) — committed / unverified
+5 / 6 conditions satisfied.
+EDITOR
+WHAT NEEDS TO BECOME TRUE
+  1  Documentation
+WHAT ELSE CAN I DO
+  2  Add something to the world
+  3  See new possibilities
+  4  Look around
+  5  History
+r  Requests · 0  Save and exit · ?  Help
+s  Switch player — development hot-seat mode
+>
+DOCUMENTATION
+0 / 1 commitment secured.
+Offered: 1/1 · committed: 1/1 · verified: 0/1
+Known offers
+  Andres: 1 commitment · Bologna · 2026-11-14 → 2026-11-14
+  1  I can provide this
+  2  Someone else can provide it
+  3  I know someone who might
+  4  Ask someone
+  5  Add information
+  8  Verify a commitment
+b / 0  Back
+>
+b: back one step · 0: cancel action · ?: help
+Which commitment can you verify?
+  1  Andres → Documentation (committed) [rel_000015]
+>
+Evidence?
+  1  organizer confirmation
+  2  player confirmation
+  3  artifact
+  4  self report
+>
+Evidence reference or note?
+World changed.
+Andres ──satisfies──▶ Documentation (verified)
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[✓] Documentation — satisfied (1/1 commitment)
+6 / 6 conditions satisfied.
+================================
+THE GAME IS OVER.
+HUBE / STOP 01
+CAN HAPPEN.
+================================
+See how we got here? [y/N]
+HOW THIS BECAME FEASIBLE
+────────────────────────────────────────────────
+HUBE / STOP 01
+  │
+  ├── Marco ✓
+  │   Marco
+  │     ↓
+  │     system: seeded [T1; rel_001]
+  │         Evidence: evidence_001
+  │
+  ├── Books ✓
+  │   Editor
+  │     ↓
+  │     system: seeded [T1; rel_003]
+  │         Evidence: evidence_001
+  │
+  ├── Venue ✓
+  │   Andres (1 venue)
+  │     ↓
+  │     system: needed [T1; rel_005]
+  │     ↓
+  │     Andres: discovered: Sala Comune [T2; place_000002]
+  │     ↓
+  │     Andres: offered [T2; rel_000002]
+  │     ↓
+  │     Andres: connected [T3; rel_000003]
+  │     ↓
+  │     Andres: committed [T4; rel_000003]
+  │     ↓
+  │     Editor: verified [T5; rel_000003]
+  │         Evidence: evidence_000005
+  │
+  ├── Date ✓
+  │   Editor (1 confirmation)
+  │     ↓
+  │     system: needed [T1; rel_006]
+  │     ↓
+  │     Editor: offered [T6; rel_000006]
+  │     ↓
+  │     Editor: connected [T7; rel_000007]
+  │     ↓
+  │     Editor: committed [T8; rel_000007]
+  │     ↓
+  │     Marco: verified [T9; rel_000007]
+  │         Evidence: evidence_000009
+  │
+  ├── Accommodation ✓
+  │   Marco (2 bed)
+  │     ↓
+  │     system: needed [T1; rel_007]
+  │     ↓
+  │     Marco: offered [T10; rel_000010]
+  │     ↓
+  │     Marco: connected [T11; rel_000011]
+  │     ↓
+  │     Marco: committed [T12; rel_000011]
+  │     ↓
+  │     Andres: verified [T13; rel_000011]
+  │         Evidence: evidence_000013
+  │
+  ├── Documentation ✓
+  │   Andres (1 commitment)
+  │     ↓
+  │     system: needed [T1; rel_008]
+  │     ↓
+  │     Andres: offered [T14; rel_000014]
+  │     ↓
+  │     Andres: connected [T15; rel_000015]
+  │     ↓
+  │     Andres: committed [T16; rel_000015]
+  │     ↓
+  │     Editor: verified [T17; rel_000015]
+  │         Evidence: evidence_000017
+
+WHAT WAS NEEDED
+────────────────────────────────────────────────
+Marco → already verified in the seed
+Books → already verified in the seed
+Venue → needed → discovered → offered → connected → committed → verified
+Date → needed → offered → connected → committed → verified
+Accommodation → needed → offered → connected → committed → verified
+Documentation → needed → offered → connected → committed → verified
+
+WHO MOVED THE WORLD
+Causal actions / all recorded actions; observations are not inferred introductions.
+Marco
+  verify: 1 / 1
+  offer: 1 / 1
+  commit: 1 / 1
+  confirm: 1 / 1
+Andres
+  offer: 2 / 2
+  commit: 2 / 2
+  confirm: 2 / 2
+  verify: 1 / 1
+Editor
+  verify: 2 / 2
+  offer: 1 / 1
+  commit: 1 / 1
+  confirm: 1 / 1
+
+WHAT CHANGED
+People: 4 → 4
+Places: 1 → 2
+Active offers: 0 → 4
+Verified conditions: 2 → 6
+Relationships added (including later withdrawals): 8
+Personal needs satisfied: 0
+Offers supporting verified allocations: 4
+Reported introductions: 0
+New resource types: 0

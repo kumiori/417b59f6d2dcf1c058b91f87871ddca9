@@ -1,0 +1,112 @@
+HOW THIS BECAME FEASIBLE
+────────────────────────────────────────────────
+HUBE / STOP 01
+  │
+  ├── Marco ✓
+  │   Marco
+  │     ↓
+  │     system: seeded [T1; rel_001]
+  │         Evidence: evidence_001
+  │
+  ├── Books ✓
+  │   Editor
+  │     ↓
+  │     system: seeded [T1; rel_003]
+  │         Evidence: evidence_001
+  │
+  ├── Venue ✓
+  │   Player X (1 venue)
+  │     ↓
+  │     system: needed [T1; rel_005]
+  │     ↓
+  │     Player X: discovered: Sala Comune [T3; place_000003]
+  │     ↓
+  │     Player X: offered [T4; rel_000004]
+  │     ↓
+  │     Andres: connected [T7; rel_000007]
+  │     ↓
+  │     Player X: committed [T8; rel_000007]
+  │     ↓
+  │     Editor: verified [T9; rel_000007]
+  │         Evidence: evidence_000009
+  │
+  ├── Date ✓
+  │   Andres (1 confirmation)
+  │     ↓
+  │     system: needed [T1; rel_006]
+  │     ↓
+  │     Andres: offered [T13; rel_000013]
+  │     ↓
+  │     Andres: connected [T14; rel_000014]
+  │     ↓
+  │     Andres: committed [T15; rel_000014]
+  │     ↓
+  │     Marco: verified [T16; rel_000014]
+  │         Evidence: evidence_000016
+  │
+  ├── Accommodation ✓
+  │   Player X (2 bed)
+  │     ↓
+  │     system: needed [T1; rel_007]
+  │     ↓
+  │     Player X: offered [T6; rel_000006]
+  │     ↓
+  │     Andres: connected [T10; rel_000010]
+  │     ↓
+  │     Player X: committed [T11; rel_000010]
+  │     ↓
+  │     Editor: verified [T12; rel_000010]
+  │         Evidence: evidence_000012
+  │
+  ├── Documentation ✓
+  │   Editor (1 commitment)
+  │     ↓
+  │     system: needed [T1; rel_008]
+  │     ↓
+  │     Editor: offered [T17; rel_000017]
+  │     ↓
+  │     Andres: connected [T18; rel_000018]
+  │     ↓
+  │     Editor: committed [T19; rel_000018]
+  │     ↓
+  │     Marco: verified [T20; rel_000018]
+  │         Evidence: evidence_000020
+
+WHAT WAS NEEDED
+────────────────────────────────────────────────
+Marco → already verified in the seed
+Books → already verified in the seed
+Venue → needed → discovered → offered → connected → committed → verified
+Date → needed → offered → connected → committed → verified
+Accommodation → needed → offered → connected → committed → verified
+Documentation → needed → offered → connected → committed → verified
+
+WHO MOVED THE WORLD
+Causal actions / all recorded actions; observations are not inferred introductions.
+Marco
+  observe: 0 / 1
+  need: 0 / 1
+  verify: 2 / 2
+Andres
+  commit: 4 / 4
+  offer: 1 / 1
+  confirm: 1 / 1
+Editor
+  verify: 2 / 2
+  offer: 1 / 1
+  confirm: 1 / 1
+Player X
+  observe: 1 / 1
+  offer: 2 / 2
+  confirm: 2 / 2
+
+WHAT CHANGED
+People: 4 → 5
+Places: 1 → 2
+Active offers: 0 → 4
+Verified conditions: 2 → 6
+Relationships added (including later withdrawals): 11
+Personal needs satisfied: 0
+Offers supporting verified allocations: 4
+Reported introductions: 0
+New resource types: 0

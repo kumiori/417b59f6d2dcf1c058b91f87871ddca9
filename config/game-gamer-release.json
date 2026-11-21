@@ -1,0 +1,8 @@
+{
+  "package": "game-gamer",
+  "version": "0.2.0",
+  "wheel": "vendor/game_gamer-0.2.0-py3-none-any.whl",
+  "sha256": "9deceacfebc1e59bafac4a73120011c3380a2cdf0fd6e17940fae83c11e33e5c",
+  "source_commit": "439473d6ee94e59d7c0c29ba16ccbbc915c8fb97",
+  "source_kind": "immutable_git_commit"
+}

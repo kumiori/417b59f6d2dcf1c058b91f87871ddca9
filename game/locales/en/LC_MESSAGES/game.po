@@ -1,0 +1,182 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: en\n"
+
+msgid "independent_verifier_required"
+msgstr "A different player must verify."
+
+msgid "provider_confirmation_required"
+msgstr "The provider must confirm."
+
+msgid "commitment_required"
+msgstr "The provider must confirm before verification."
+
+msgid "insufficient_evidence"
+msgstr "Self-report cannot verify this commitment."
+
+msgid "organizer_required"
+msgstr "Organizer confirmation requires an organizer."
+
+msgid "evidence_reference_required"
+msgstr "An evidence note or reference is required."
+
+msgid "stale_possibility"
+msgstr "This possibility is no longer available."
+
+msgid "positive_integer_quantity_required"
+msgstr "Quantity must be a positive integer."
+
+msgid "invalid_interval"
+msgstr "The end date must not precede the start date."
+
+msgid "invalid_asset"
+msgstr "Choose a specific place or object, distinct from the city."
+
+msgid "invalid_transition"
+msgstr "This change is not valid in the current state."
+
+msgid "owner_required"
+msgstr "Only the owner can make this change."
+
+msgid "reason_required"
+msgstr "A reason is required."
+
+msgid "game_over"
+msgstr "The game has ended."
+
+msgid "invalid_choice"
+msgstr "Choose one of the listed numbers."
+
+msgid "unsupported_field"
+msgstr "The command contains an unsupported field."
+
+msgid "missing_field"
+msgstr "A required field is missing."
+
+msgid "invalid_payload"
+msgstr "The command contains invalid data."
+
+msgid "unknown_player"
+msgstr "Unknown player."
+
+msgid "invalid_node"
+msgstr "Invalid entity."
+
+msgid "invalid_resource"
+msgstr "Choose a resource."
+
+msgid "invalid_location"
+msgstr "Choose a place."
+
+msgid "invalid_subject"
+msgstr "Choose an existing commitment."
+
+msgid "unit_required"
+msgstr "A unit is required."
+
+msgid "unknown_target"
+msgstr "Unknown target."
+
+msgid "unknown_command"
+msgstr "Unknown command."
+
+msgid "key_required"
+msgstr "A command identifier is required."
+
+msgid "key_conflict"
+msgstr "This identifier already belongs to a different command."
+
+msgid "invalid_command"
+msgstr "Invalid command."
+
+msgid "invalid_observation_relation"
+msgstr "This relation cannot be created by an observation."
+
+msgid "unknown_relation_kind"
+msgstr "Unknown relation type."
+
+msgid "partially_satisfied"
+msgstr "partially satisfied"
+
+msgid "organizer_confirmation"
+msgstr "organizer confirmation"
+
+msgid "player_confirmation"
+msgstr "player confirmation"
+
+msgid "self_report"
+msgstr "self report"
+
+msgid "collaborates_with"
+msgstr "collaborates with"
+
+msgid "located_in"
+msgstr "located in"
+
+msgid "actor_mismatch"
+msgstr "This session can only act as its selected player."
+
+msgid "hot_seat_required"
+msgstr "Switching requires explicit --hot-seat mode."
+
+msgid "invalid_recipient"
+msgstr "Choose another person as recipient."
+
+msgid "invalid_demand"
+msgstr "Choose an active need or requirement."
+
+msgid "request_already_pending"
+msgstr "This request is already waiting for a response."
+
+msgid "invalid_request_context"
+msgstr "The contact reference is invalid or withdrawn."
+
+msgid "request_not_pending"
+msgstr "This request is no longer pending."
+
+msgid "recipient_required"
+msgstr "Only the recipient can answer this request."
+
+msgid "invalid_response"
+msgstr "Choose accept, decline or modify."
+
+msgid "modify_required"
+msgstr "Use modify to change the requested terms."
+
+msgid "invalid_join"
+msgstr "Joining requires the entry flow."
+
+msgid "identity_already_exists"
+msgstr "That identity is already playable or ambiguous. Choose an existing identity."
+
+msgid "only_own_reported_observations"
+msgstr "Only your own unverified observations can be corrected here."
+
+msgid "invalid_introduction"
+msgstr "Choose two distinct people."
+
+msgid "unknown_source"
+msgstr "Unknown source."
+
+msgid "log_conflict"
+msgstr "The saved world changed in another session. Reopen play to load it."
+
+msgid "resource_already_exists"
+msgstr "A matching resource already exists. Select it, or explicitly choose a different resource."
+
+msgid "invalid_relation_signature"
+msgstr "That relation does not apply to these entity types."
+
+msgid "note_required"
+msgstr "Please enter the information you want to record."
+
+msgid "choose_location_or_label"
+msgstr "Select an existing location or name a new one."
+
+msgid "choose_asset_or_label"
+msgstr "Select an existing object or place, or name a new one."
+
+msgid "exploration_requires_one_need"
+msgstr "Choose one need to explore."
+
+msgid "> PRESS ENTER"
+msgstr "> PRESS ENTER"

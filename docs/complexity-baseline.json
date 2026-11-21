@@ -1,0 +1,95 @@
+{
+  "game/declarations.py::actor_declarations": {
+    "conditional_depth": 4
+  },
+  "game/journey.py::project_causal_trace": {
+    "conditional_depth": 6,
+    "cyclomatic_complexity": 28,
+    "function_lines": 106
+  },
+  "game/mission_terminal.py::MissionTerminal.contributions": {
+    "conditional_depth": 4
+  },
+  "game/mission_terminal.py::MissionTerminal.run": {
+    "cyclomatic_complexity": 18,
+    "function_lines": 55
+  },
+  "game/play.py::PlayTerminal": {
+    "class_lines": 435
+  },
+  "game/play.py::PlayTerminal.run": {
+    "cyclomatic_complexity": 19,
+    "function_lines": 55
+  },
+  "game/play.py::PlayTerminal.work_on": {
+    "cyclomatic_complexity": 18
+  },
+  "game/profile_editor.py::ProfileDraft.changes": {
+    "conditional_depth": 4
+  },
+  "game/profile_editor.py::ProfileScreen.draw": {
+    "conditional_depth": 4
+  },
+  "game/profile_editor.py::ProfileScreen.run": {
+    "cyclomatic_complexity": 16
+  },
+  "game/recap.py::render_journey": {
+    "conditional_depth": 4,
+    "cyclomatic_complexity": 20,
+    "function_lines": 66
+  },
+  "game/replay.py::simulate": {
+    "conditional_depth": 5,
+    "cyclomatic_complexity": 22,
+    "function_lines": 79
+  },
+  "game/terminal.py::Terminal.command": {
+    "cyclomatic_complexity": 18,
+    "function_lines": 64
+  },
+  "game/terminal.py::main": {
+    "function_lines": 69
+  },
+  "game_gamer_semantics/declarations.py::revise_declarations": {
+    "function_lines": 58
+  },
+  "hube_tag/animation.py::animate": {
+    "conditional_depth": 4,
+    "function_lines": 60
+  },
+  "hube_tag/cli.py::main": {
+    "cyclomatic_complexity": 16,
+    "function_lines": 85
+  },
+  "hube_tag/diagnostics.py::evaluate": {
+    "function_lines": 89
+  },
+  "hube_tag/pipeline.py::process_extracted": {
+    "function_lines": 60
+  },
+  "hube_tag/raster.py::cells": {
+    "conditional_depth": 5
+  },
+  "hube_tag/registration.py::register": {
+    "conditional_depth": 4,
+    "function_lines": 62
+  },
+  "hube_tag/segmentation.py::segment": {
+    "cyclomatic_complexity": 25,
+    "function_lines": 129
+  },
+  "hube_tag/skeleton.py::trails": {
+    "conditional_depth": 4,
+    "cyclomatic_complexity": 31,
+    "function_lines": 123
+  },
+  "hube_tag/trajectories.py::reconstruct": {
+    "conditional_depth": 4,
+    "cyclomatic_complexity": 25,
+    "function_lines": 117
+  },
+  "hube_tag/video.py::extract": {
+    "cyclomatic_complexity": 16,
+    "function_lines": 101
+  }
+}

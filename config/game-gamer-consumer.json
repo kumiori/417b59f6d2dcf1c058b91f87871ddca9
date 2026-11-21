@@ -1,0 +1,29 @@
+{
+  "schema": "game-gamer/consumer/v1",
+  "upstream": "kumiori/113a4cce0c9191877e82b1a0b6767a70",
+  "lock": "config/game-gamer-release.json",
+  "requirements": "requirements/game-gamer-release.txt",
+  "baseline_wheel": "vendor/game_gamer-0.2.0-py3-none-any.whl",
+  "supported_extension_contracts": [
+    "game-gamer/extension/v1"
+  ],
+  "required_capabilities": [
+    "history.replay",
+    "tui.network",
+    "world.fork"
+  ],
+  "pins": [
+    {
+      "path": "pyproject.toml",
+      "value": "game-gamer[tui] @ git+https://github.com/kumiori/113a4cce0c9191877e82b1a0b6767a70.git@439473d6ee94e59d7c0c29ba16ccbbc915c8fb97"
+    }
+  ],
+  "legacy_tests": [
+    "tests/test_replay.py",
+    "tests/test_command_invariants.py",
+    "tests/test_shared_runtime.py"
+  ],
+  "application_tests": [
+    "tests"
+  ]
+}

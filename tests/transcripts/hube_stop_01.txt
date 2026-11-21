@@ -1,0 +1,1212 @@
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Marco >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+What did you observe?
+  1  person
+  2  place
+  3  resource
+  4  relationship
+  0  Cancel
+>
+Name?
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Marco >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Player X >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+What did you observe?
+  1  person
+  2  place
+  3  resource
+  4  relationship
+  0  Cancel
+>
+Name?
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Player X >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Resource?
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+  5  New resource
+  0  Cancel
+>
+Specific place or object?
+  1  None
+  2  Bologna
+  3  Sala Comune
+  4  Books
+  0  Cancel
+>
+Quantity?
+Unit?
+  1  bed
+  2  venue
+  3  confirmation
+  4  commitment
+  5  hour
+  6  other
+  0  Cancel
+>
+Where?
+  1  Bologna
+  2  Sala Comune
+  0  Cancel
+>
+Available from (YYYY-MM-DD)?
+Available until (YYYY-MM-DD)?
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Player X >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Marco >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Resource?
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+  5  New resource
+  0  Cancel
+>
+Specific place or object?
+  1  None
+  2  Bologna
+  3  Sala Comune
+  4  Books
+  0  Cancel
+>
+Quantity?
+Unit?
+  1  bed
+  2  venue
+  3  confirmation
+  4  commitment
+  5  hour
+  6  other
+  0  Cancel
+>
+Where?
+  1  Bologna
+  2  Sala Comune
+  0  Cancel
+>
+Available from (YYYY-MM-DD)?
+Available until (YYYY-MM-DD)?
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Marco >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Player X >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Resource?
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+  5  New resource
+  0  Cancel
+>
+Specific place or object?
+  1  None
+  2  Bologna
+  3  Sala Comune
+  4  Books
+  0  Cancel
+>
+Quantity?
+Unit?
+  1  bed
+  2  venue
+  3  confirmation
+  4  commitment
+  5  hour
+  6  other
+  0  Cancel
+>
+Where?
+  1  Bologna
+  2  Sala Comune
+  0  Cancel
+>
+Available from (YYYY-MM-DD)?
+Available until (YYYY-MM-DD)?
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Player X >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Andres >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a possibility.
+  1  Player X may supply 1 venue of Venue for HUBE / STOP 01.
+  2  Player X may supply 2 bed of Accommodation for HUBE / STOP 01.
+  3  Player X may supply 2 bed of Accommodation for Marco.
+  0  Cancel
+>
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue) — proposed / unverified
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Andres >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue) — proposed / unverified
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Player X >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a subject.
+  1  Player X → Venue (proposed) [rel_000007]
+  0  Cancel
+>
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue) — committed / unverified
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Player X >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[ ] Venue — unsatisfied (0/1 venue) — committed / unverified
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+2 / 6 conditions satisfied.
+Editor >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a subject.
+  1  Player X → Venue (committed) [rel_000007]
+  0  Cancel
+>
+Evidence?
+  1  organizer confirmation
+  2  player confirmation
+  3  artifact
+  4  self report
+  0  Cancel
+>
+Evidence reference or note?
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+3 / 6 conditions satisfied.
+Editor >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+3 / 6 conditions satisfied.
+Andres >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a possibility.
+  1  Player X may supply 2 bed of Accommodation for HUBE / STOP 01.
+  2  Player X may supply 2 bed of Accommodation for Marco.
+  0  Cancel
+>
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed) — proposed / unverified
+[ ] Documentation — unsatisfied (0/1 commitment)
+3 / 6 conditions satisfied.
+Andres >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed) — proposed / unverified
+[ ] Documentation — unsatisfied (0/1 commitment)
+3 / 6 conditions satisfied.
+Player X >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a subject.
+  1  Player X → Accommodation (proposed) [rel_000010]
+  0  Cancel
+>
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed) — committed / unverified
+[ ] Documentation — unsatisfied (0/1 commitment)
+3 / 6 conditions satisfied.
+Player X >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[ ] Accommodation — unsatisfied (0/2 bed) — committed / unverified
+[ ] Documentation — unsatisfied (0/1 commitment)
+3 / 6 conditions satisfied.
+Editor >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a subject.
+  1  Player X → Accommodation (committed) [rel_000010]
+  0  Cancel
+>
+Evidence?
+  1  organizer confirmation
+  2  player confirmation
+  3  artifact
+  4  self report
+  0  Cancel
+>
+Evidence reference or note?
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+4 / 6 conditions satisfied.
+Editor >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+4 / 6 conditions satisfied.
+Andres >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Resource?
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+  5  New resource
+  0  Cancel
+>
+Specific place or object?
+  1  None
+  2  Bologna
+  3  Sala Comune
+  4  Books
+  0  Cancel
+>
+Quantity?
+Unit?
+  1  bed
+  2  venue
+  3  confirmation
+  4  commitment
+  5  hour
+  6  other
+  0  Cancel
+>
+Where?
+  1  Bologna
+  2  Sala Comune
+  0  Cancel
+>
+Available from (YYYY-MM-DD)?
+Available until (YYYY-MM-DD)?
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+4 / 6 conditions satisfied.
+Andres >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a possibility.
+  1  Andres may supply 1 confirmation of Date for HUBE / STOP 01.
+  0  Cancel
+>
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation) — proposed / unverified
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+4 / 6 conditions satisfied.
+Andres >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a subject.
+  1  Andres → Date (proposed) [rel_000014]
+  0  Cancel
+>
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation) — committed / unverified
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+4 / 6 conditions satisfied.
+Andres >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[ ] Date — unsatisfied (0/1 confirmation) — committed / unverified
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+4 / 6 conditions satisfied.
+Marco >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a subject.
+  1  Andres → Date (committed) [rel_000014]
+  0  Cancel
+>
+Evidence?
+  1  organizer confirmation
+  2  player confirmation
+  3  artifact
+  4  self report
+  0  Cancel
+>
+Evidence reference or note?
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+5 / 6 conditions satisfied.
+Marco >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+5 / 6 conditions satisfied.
+Editor >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Resource?
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+  5  New resource
+  0  Cancel
+>
+Specific place or object?
+  1  None
+  2  Bologna
+  3  Sala Comune
+  4  Books
+  0  Cancel
+>
+Quantity?
+Unit?
+  1  bed
+  2  venue
+  3  confirmation
+  4  commitment
+  5  hour
+  6  other
+  0  Cancel
+>
+Where?
+  1  Bologna
+  2  Sala Comune
+  0  Cancel
+>
+Available from (YYYY-MM-DD)?
+Available until (YYYY-MM-DD)?
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+5 / 6 conditions satisfied.
+Editor >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment)
+5 / 6 conditions satisfied.
+Andres >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a possibility.
+  1  Editor may supply 1 commitment of Documentation for HUBE / STOP 01.
+  0  Cancel
+>
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment) — proposed / unverified
+5 / 6 conditions satisfied.
+Andres >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment) — proposed / unverified
+5 / 6 conditions satisfied.
+Editor >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a subject.
+  1  Editor → Documentation (proposed) [rel_000018]
+  0  Cancel
+>
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment) — committed / unverified
+5 / 6 conditions satisfied.
+Editor >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a player.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Cancel
+>
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[ ] Documentation — unsatisfied (0/1 commitment) — committed / unverified
+5 / 6 conditions satisfied.
+Marco >
+  1  Observe something
+  2  Offer something
+  3  Report a need
+  4  Propose something
+  5  Act on a possibility
+  6  See what is possible
+  7  See world
+  8  See timeline
+  9  Switch player
+  10  Confirm a commitment
+  11  Verify a commitment
+  12  Withdraw
+  13  Reject a proposal
+  0  Save and exit
+>
+Choose a subject.
+  1  Editor → Documentation (committed) [rel_000018]
+  0  Cancel
+>
+Evidence?
+  1  organizer confirmation
+  2  player confirmation
+  3  artifact
+  4  self report
+  0  Cancel
+>
+Evidence reference or note?
+World changed.
+HUBE / STOP 01
+[✓] Marco — satisfied
+[✓] Books — satisfied
+[✓] Venue — satisfied (1/1 venue)
+[✓] Date — satisfied (1/1 confirmation)
+[✓] Accommodation — satisfied (2/2 bed)
+[✓] Documentation — satisfied (1/1 commitment)
+6 / 6 conditions satisfied.
+================================
+THE GAME IS OVER.
+HUBE / STOP 01
+CAN HAPPEN.
+================================

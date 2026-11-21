@@ -1,0 +1,1508 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8\nLanguage: it\n"
+
+msgid "Observe something"
+msgstr "Osserva qualcosa"
+
+msgid "Offer something"
+msgstr "Offri qualcosa"
+
+msgid "Report a need"
+msgstr "Segnala un bisogno"
+
+msgid "Propose something"
+msgstr "Proponi qualcosa"
+
+msgid "Act on a possibility"
+msgstr "Agisci su una possibilità"
+
+msgid "See what is possible"
+msgstr "Scopri le possibilità"
+
+msgid "See world"
+msgstr "Vedi il mondo"
+
+msgid "See timeline"
+msgstr "Vedi la cronologia"
+
+msgid "Switch player"
+msgstr "Cambia giocatore"
+
+msgid "Confirm a commitment"
+msgstr "Conferma un impegno"
+
+msgid "Verify a commitment"
+msgstr "Verifica un impegno"
+
+msgid "Withdraw"
+msgstr "Ritira"
+
+msgid "Reject a proposal"
+msgstr "Rifiuta una proposta"
+
+msgid "Save and exit"
+msgstr "Salva ed esci"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "What did you observe?"
+msgstr "Che cosa hai osservato?"
+
+msgid "Choose a target."
+msgstr "Scegli un destinatario."
+
+msgid "Relationship?"
+msgstr "Relazione?"
+
+msgid "Name?"
+msgstr "Nome?"
+
+msgid "Resource?"
+msgstr "Risorsa?"
+
+msgid "New resource"
+msgstr "Nuova risorsa"
+
+msgid "Resource name?"
+msgstr "Nome della risorsa?"
+
+msgid "Specific place or object?"
+msgstr "Luogo o oggetto specifico?"
+
+msgid "None"
+msgstr "Nessuno"
+
+msgid "Quantity?"
+msgstr "Quantità?"
+
+msgid "Unit?"
+msgstr "Unità?"
+
+msgid "Unit name?"
+msgstr "Nome dell’unità?"
+
+msgid "Where?"
+msgstr "Dove?"
+
+msgid "Available from (YYYY-MM-DD)?"
+msgstr "Disponibile dal (YYYY-MM-DD)?"
+
+msgid "Available until (YYYY-MM-DD)?"
+msgstr "Disponibile fino al (YYYY-MM-DD)?"
+
+msgid "What do you propose?"
+msgstr "Che cosa proponi?"
+
+msgid "Choose a possibility."
+msgstr "Scegli una possibilità."
+
+msgid "Choose a player."
+msgstr "Scegli un giocatore."
+
+msgid "Choose a subject."
+msgstr "Scegli un impegno o una relazione."
+
+msgid "Evidence?"
+msgstr "Prova?"
+
+msgid "Evidence reference or note?"
+msgstr "Riferimento o nota della prova?"
+
+msgid "Reason?"
+msgstr "Motivo?"
+
+msgid "World changed."
+msgstr "Il mondo è cambiato."
+
+msgid "Command rejected."
+msgstr "Comando rifiutato."
+
+msgid "Invalid input."
+msgstr "Input non valido."
+
+msgid "No possibilities yet."
+msgstr "Nessuna possibilità per ora."
+
+msgid "{provider} may supply {quantity} {unit} of {resource} for {owner}."
+msgstr "{provider} può offrire {quantity} {unit} di {resource} a {owner}."
+
+msgid "{satisfied} / {total} conditions satisfied."
+msgstr "{satisfied} / {total} condizioni soddisfatte."
+
+msgid "THE GAME IS OVER."
+msgstr "IL GIOCO È FINITO."
+
+msgid "CAN HAPPEN."
+msgstr "PUÒ ACCADERE."
+
+msgid "Marco"
+msgstr "Marco"
+
+msgid "Books"
+msgstr "Libri"
+
+msgid "Venue"
+msgstr "Spazio"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Accommodation"
+msgstr "Alloggio"
+
+msgid "Documentation"
+msgstr "Documentazione"
+
+msgid "satisfied"
+msgstr "soddisfatto"
+
+msgid "unsatisfied"
+msgstr "non soddisfatto"
+
+msgid "partially_satisfied"
+msgstr "parzialmente soddisfatto"
+
+msgid "proposed"
+msgstr "proposto"
+
+msgid "committed"
+msgstr "impegnato"
+
+msgid "verified"
+msgstr "verificato"
+
+msgid "reported"
+msgstr "segnalato"
+
+msgid "withdrawn"
+msgstr "ritirato"
+
+msgid "rejected"
+msgstr "rifiutato"
+
+msgid "person"
+msgstr "persona"
+
+msgid "place"
+msgstr "luogo"
+
+msgid "resource"
+msgstr "risorsa"
+
+msgid "relationship"
+msgstr "relazione"
+
+msgid "knows"
+msgstr "conosce"
+
+msgid "suggests"
+msgstr "suggerisce"
+
+msgid "collaborates_with"
+msgstr "collabora con"
+
+msgid "located_in"
+msgstr "si trova a"
+
+msgid "bed"
+msgstr "posto letto"
+
+msgid "venue"
+msgstr "spazio"
+
+msgid "confirmation"
+msgstr "conferma"
+
+msgid "commitment"
+msgstr "impegno"
+
+msgid "hour"
+msgstr "ora"
+
+msgid "other"
+msgstr "altro"
+
+msgid "organizer_confirmation"
+msgstr "conferma dell’organizzatore"
+
+msgid "player_confirmation"
+msgstr "conferma di un altro giocatore"
+
+msgid "artifact"
+msgstr "documento"
+
+msgid "self_report"
+msgstr "autodichiarazione"
+
+msgid "world.initialized"
+msgstr "Mondo inizializzato"
+
+msgid "observation.reported"
+msgstr "Osservazione registrata"
+
+msgid "capacity.reported"
+msgstr "Capacità segnalata"
+
+msgid "need.reported"
+msgstr "Bisogno segnalato"
+
+msgid "connection.proposed"
+msgstr "Connessione proposta"
+
+msgid "commitment.confirmed"
+msgstr "Impegno confermato"
+
+msgid "commitment.verified"
+msgstr "Impegno verificato"
+
+msgid "event.feasible"
+msgstr "Evento fattibile"
+
+msgid "proposition.proposed"
+msgstr "Proposta registrata"
+
+msgid "commitment.withdrawn"
+msgstr "Impegno ritirato"
+
+msgid "commitment.rejected"
+msgstr "Impegno rifiutato"
+
+msgid "invalid_choice"
+msgstr "Scelta non valida"
+
+msgid "independent_verifier_required"
+msgstr "Deve verificare un altro giocatore"
+
+msgid "provider_confirmation_required"
+msgstr "Deve confermare chi offre la risorsa"
+
+msgid "commitment_required"
+msgstr "Prima serve un impegno confermato"
+
+msgid "insufficient_evidence"
+msgstr "Prova insufficiente"
+
+msgid "organizer_required"
+msgstr "Serve un organizzatore"
+
+msgid "evidence_reference_required"
+msgstr "Inserisci un riferimento della prova"
+
+msgid "stale_possibility"
+msgstr "Possibilità non più disponibile"
+
+msgid "positive_integer_quantity_required"
+msgstr "La quantità deve essere un intero positivo"
+
+msgid "invalid_interval"
+msgstr "Intervallo di date non valido"
+
+msgid "invalid_asset"
+msgstr "Luogo o oggetto non valido"
+
+msgid "invalid_transition"
+msgstr "Transizione non valida"
+
+msgid "owner_required"
+msgstr "Può agire solo il titolare"
+
+msgid "reason_required"
+msgstr "Inserisci un motivo"
+
+msgid "game_over"
+msgstr "Il gioco è finito"
+
+msgid ">"
+msgstr ">"
+
+msgid "unverified"
+msgstr "non verificato"
+
+msgid "unsupported_field"
+msgstr "Campo non supportato"
+
+msgid "missing_field"
+msgstr "Campo obbligatorio mancante"
+
+msgid "invalid_payload"
+msgstr "Dati non validi"
+
+msgid "unknown_player"
+msgstr "Giocatore sconosciuto"
+
+msgid "invalid_node"
+msgstr "Entità non valida"
+
+msgid "invalid_resource"
+msgstr "Risorsa non valida"
+
+msgid "invalid_location"
+msgstr "Luogo non valido"
+
+msgid "invalid_subject"
+msgstr "Impegno non valido"
+
+msgid "unit_required"
+msgstr "Inserisci una unità"
+
+msgid "unknown_target"
+msgstr "Destinatario sconosciuto"
+
+msgid "unknown_command"
+msgstr "Comando sconosciuto"
+
+msgid "key_required"
+msgstr "Identificatore del comando mancante"
+
+msgid "key_conflict"
+msgstr "Identificatore già usato per un altro comando"
+
+msgid "invalid_command"
+msgstr "Comando non valido"
+
+msgid "invalid_observation_relation"
+msgstr "Relazione non valida per una osservazione"
+
+msgid "unknown_relation_kind"
+msgstr "Tipo di relazione sconosciuto"
+
+msgid "The event does not exist yet."
+msgstr "L’evento non esiste ancora."
+
+msgid "Marco is here. Andres coordinates. Editor has books."
+msgstr "Marco è qui. Andres coordina. Editor ha i libri."
+
+msgid "I know {name}."
+msgstr "Conosco {name}."
+
+msgid "I found {name}."
+msgstr "Ho trovato {name}."
+
+msgid "I can offer {quantity} {unit}: {resource}."
+msgstr "Posso offrire {quantity} {unit}: {resource}."
+
+msgid "I need {quantity} {unit}: {resource}."
+msgstr "Ho bisogno di {quantity} {unit}: {resource}."
+
+msgid "Connect {provider}’s offer to {resource}."
+msgstr "Collega l’offerta di {provider} a {resource}."
+
+msgid "I confirm this commitment."
+msgstr "Confermo questo impegno."
+
+msgid "I verify this commitment."
+msgstr "Verifico questo impegno."
+
+msgid "{name} entered the world."
+msgstr "{name} è entrato nel mondo."
+
+msgid "Proposed connection — waiting for the provider."
+msgstr "Collegamento proposto — in attesa di chi offre la risorsa."
+
+msgid "{requirement} is now secured."
+msgstr "{requirement}: condizione ora soddisfatta."
+
+msgid "{owner} needs {resource}.\n{provider} can provide it.\nA connection is possible; nobody is committed yet."
+msgstr "{owner} ha bisogno di {resource}.\n{provider} può fornirlo.\nUn collegamento è possibile; nessuno si è ancora impegnato."
+
+msgid "THE THING CAN HAPPEN."
+msgstr "LA COSA PUÒ ACCADERE."
+
+msgid "[ replay ×{speed:.1f}{paused} | SPACE pause | +/- speed | ENTER next | q quit ]"
+msgstr "[ replay ×{speed:.1f}{paused} | SPAZIO pausa | +/- velocità | INVIO avanti | q esci ]"
+
+msgid " | paused"
+msgstr " | in pausa"
+
+msgid "WORLD MUTATION"
+msgstr "IL MONDO CAMBIA"
+
+msgid "GRAPH CHANGE"
+msgstr "IL GRAFO CAMBIA"
+
+msgid "NEW POSSIBILITY"
+msgstr "NUOVA POSSIBILITÀ"
+
+msgid "THRESHOLD CROSSED"
+msgstr "SOGLIA RAGGIUNTA"
+
+msgid "offers"
+msgstr "offre"
+
+msgid "needs"
+msgstr "richiede"
+
+msgid "satisfies"
+msgstr "soddisfa"
+
+msgid "Look around"
+msgstr "Guardati intorno"
+
+msgid "Say what I know"
+msgstr "Dico ciò che so"
+
+msgid "Report what is needed"
+msgstr "Segnalo ciò che serve"
+
+msgid "See possible moves"
+msgstr "Vedi le mosse possibili"
+
+msgid "Act"
+msgstr "Agisci"
+
+msgid "See history"
+msgstr "Vedi la storia"
+
+msgid "Choose who you are:"
+msgstr "Scegli chi sei:"
+
+msgid "Join as someone else"
+msgstr "Entra come un’altra persona"
+
+msgid "You are {name}."
+msgstr "Sei {name}."
+
+msgid "{count} requests are waiting for you."
+msgstr "Hai {count} richieste in attesa."
+
+msgid "WAITING — the recipient must respond."
+msgstr "IN ATTESA — deve rispondere il destinatario."
+
+msgid "Offer reported. Connection, provider confirmation and independent verification are still required."
+msgstr "Offerta registrata. Servono ancora un collegamento, la conferma di chi offre e una verifica indipendente."
+
+msgid "Ask {name} about {resource}; capacity is not assumed."
+msgstr "Chiedi a {name} informazioni su {resource}; la capacità non è presunta."
+
+msgid "Who is this observation about?"
+msgstr "Di chi parla questa osservazione?"
+
+msgid "Correct one of your reported observations."
+msgstr "Correggi una delle tue osservazioni non verificate."
+
+msgid "Correct source?"
+msgstr "Fonte corretta?"
+
+msgid "Correct target?"
+msgstr "Destinatario corretto?"
+
+msgid "People"
+msgstr "Persone"
+
+msgid "Places"
+msgstr "Luoghi"
+
+msgid "Resources"
+msgstr "Risorse"
+
+msgid "Unresolved conditions"
+msgstr "Condizioni non soddisfatte"
+
+msgid "Something missing or wrong?"
+msgstr "Manca qualcosa o c’è un errore?"
+
+msgid "Add observation"
+msgstr "Aggiungi un’osservazione"
+
+msgid "Correct something"
+msgstr "Correggi qualcosa"
+
+msgid "Continue"
+msgstr "Continua"
+
+msgid "{name} asks about {resource}."
+msgstr "{name} chiede informazioni su {resource}."
+
+msgid "Requests waiting for you"
+msgstr "Richieste in attesa di una tua risposta"
+
+msgid "Your response?"
+msgstr "La tua risposta?"
+
+msgid "accept"
+msgstr "accetta"
+
+msgid "decline"
+msgstr "rifiuta"
+
+msgid "modify"
+msgstr "modifica"
+
+msgid "What would you change?"
+msgstr "Che cosa vuoi cambiare?"
+
+msgid "quantity"
+msgstr "quantità"
+
+msgid "dates"
+msgstr "date"
+
+msgid "location"
+msgstr "luogo"
+
+msgid "asset"
+msgstr "luogo o oggetto"
+
+msgid "unit"
+msgstr "unità"
+
+msgid "[r] Requests  [c] Confirm  [v] Verify  [i] Introduce  [x] Correct  [w] Withdraw  [0] Save and exit"
+msgstr "[r] Richieste  [c] Conferma  [v] Verifica  [i] Presenta  [x] Correggi  [w] Ritira  [0] Salva ed esci"
+
+msgid "[s] Switch player — development hot-seat mode"
+msgstr "[s] Cambia giocatore — modalità hot-seat di sviluppo"
+
+msgid "Introduce whom?"
+msgstr "Chi vuoi presentare?"
+
+msgid "To whom?"
+msgstr "A chi?"
+
+msgid "HOW THIS BECAME FEASIBLE"
+msgstr "COME È DIVENTATO FATTIBILE"
+
+msgid "RECORDED SUPPORT SO FAR"
+msgstr "SUPPORTO REGISTRATO FINORA"
+
+msgid "No verified support yet."
+msgstr "Nessun supporto verificato per ora."
+
+msgid "Evidence"
+msgstr "Prova"
+
+msgid "WHAT WAS NEEDED"
+msgstr "CHE COSA SERVIVA"
+
+msgid "already verified in the seed"
+msgstr "già verificato nel mondo iniziale"
+
+msgid "unresolved"
+msgstr "non risolto"
+
+msgid "WHO MOVED THE WORLD"
+msgstr "CHI HA CAMBIATO IL MONDO"
+
+msgid "Causal actions / all recorded actions; observations are not inferred introductions."
+msgstr "Azioni causali / tutte le azioni registrate; le osservazioni non implicano presentazioni."
+
+msgid "WHAT CHANGED"
+msgstr "CHE COSA È CAMBIATO"
+
+msgid "Active offers"
+msgstr "Offerte attive"
+
+msgid "Verified conditions"
+msgstr "Condizioni verificate"
+
+msgid "Relationships added (including later withdrawals)"
+msgstr "Relazioni aggiunte (anche se poi ritirate)"
+
+msgid "Personal needs satisfied"
+msgstr "Bisogni personali soddisfatti"
+
+msgid "Offers supporting verified allocations"
+msgstr "Offerte a supporto di assegnazioni verificate"
+
+msgid "Reported introductions"
+msgstr "Presentazioni segnalate"
+
+msgid "New resource types"
+msgstr "Nuovi tipi di risorse"
+
+msgid "See how we got here? [y/N]"
+msgstr "Vuoi vedere come ci siamo arrivati? [s/N]"
+
+msgid "needed"
+msgstr "necessario"
+
+msgid "discovered"
+msgstr "scoperto"
+
+msgid "offered"
+msgstr "offerto"
+
+msgid "connected"
+msgstr "collegato"
+
+msgid "seeded"
+msgstr "presente nel mondo iniziale"
+
+msgid "requested"
+msgstr "richiesto"
+
+msgid "observed"
+msgstr "osservato"
+
+msgid "introduced"
+msgstr "presentato"
+
+msgid "system"
+msgstr "sistema"
+
+msgid "observe"
+msgstr "osservazioni"
+
+msgid "offer"
+msgstr "offerte"
+
+msgid "need"
+msgstr "bisogni"
+
+msgid "commit"
+msgstr "collegamenti"
+
+msgid "confirm"
+msgstr "conferme"
+
+msgid "verify"
+msgstr "verifiche"
+
+msgid "request"
+msgstr "richieste"
+
+msgid "respond"
+msgstr "risposte"
+
+msgid "join"
+msgstr "ingressi"
+
+msgid "correct"
+msgstr "correzioni"
+
+msgid "introduce"
+msgstr "presentazioni"
+
+msgid "propose"
+msgstr "proposte"
+
+msgid "Development hot-seat client. Use game play for a fixed identity."
+msgstr "Client hot-seat di sviluppo. Usa game play per un’identità fissa."
+
+msgid "actor_mismatch"
+msgstr "Questa sessione può agire solo come il giocatore selezionato."
+
+msgid "hot_seat_required"
+msgstr "Il cambio giocatore richiede --hot-seat."
+
+msgid "invalid_recipient"
+msgstr "Scegli un’altra persona come destinatario."
+
+msgid "invalid_demand"
+msgstr "Scegli un bisogno o un requisito attivo."
+
+msgid "request_already_pending"
+msgstr "Questa richiesta è già in attesa di risposta."
+
+msgid "invalid_request_context"
+msgstr "Il riferimento al contatto non è valido o è stato ritirato."
+
+msgid "request_not_pending"
+msgstr "Questa richiesta non è più in attesa."
+
+msgid "recipient_required"
+msgstr "Solo il destinatario può rispondere."
+
+msgid "invalid_response"
+msgstr "Scegli accetta, rifiuta o modifica."
+
+msgid "modify_required"
+msgstr "Usa modifica per cambiare le condizioni richieste."
+
+msgid "invalid_join"
+msgstr "Per entrare usa il flusso di ingresso."
+
+msgid "identity_already_exists"
+msgstr "Questa identità è già giocabile o ambigua. Scegli un’identità esistente."
+
+msgid "only_own_reported_observations"
+msgstr "Qui puoi correggere solo le tue osservazioni non verificate."
+
+msgid "invalid_introduction"
+msgstr "Scegli due persone distinte."
+
+msgid "unknown_source"
+msgstr "Fonte sconosciuta."
+
+msgid "log_conflict"
+msgstr "Un’altra sessione ha modificato il mondo salvato. Riapri il gioco."
+
+msgid "request.sent"
+msgstr "Richiesta inviata"
+
+msgid "request.responded"
+msgstr "Risposta registrata"
+
+msgid "player.joined"
+msgstr "Nuovo giocatore"
+
+msgid "observation.corrected"
+msgstr "Osservazione corretta"
+
+msgid "introduction.reported"
+msgstr "Presentazione segnalata"
+
+msgid "b: back one step · 0: cancel action · ?: help"
+msgstr "b: indietro di un passo · 0: annulla azione · ?: aiuto"
+
+msgid "Enter a value for this question. b goes back; 0 cancels this action. No changes are saved until the form is complete."
+msgstr "Inserisci un valore per questa domanda. b torna indietro; 0 annulla questa azione. Nessuna modifica viene salvata finché il modulo non è completo."
+
+msgid "No options available."
+msgstr "Nessuna opzione disponibile."
+
+msgid "I need one of the listed choices."
+msgstr "Scegli una delle opzioni elencate."
+
+msgid "Invalid input; please try again."
+msgstr "Input non valido; riprova."
+
+msgid "Please enter a nonempty value."
+msgstr "Inserisci un valore non vuoto."
+
+msgid "Quantity must be a positive integer."
+msgstr "La quantità deve essere un intero positivo."
+
+msgid "Enter a valid date, not earlier than the start date (YYYY-MM-DD)."
+msgstr "Inserisci una data valida, non precedente alla data iniziale (YYYY-MM-DD)."
+
+msgid "Please answer y or n."
+msgstr "Rispondi s oppure n."
+
+msgid "Information recorded. This is not an offer or a commitment."
+msgstr "Informazione registrata. Non è un’offerta né un impegno."
+
+msgid "required by"
+msgstr "richiesto da"
+
+msgid "separate resource, not this event’s requirement"
+msgstr "risorsa distinta, non è il requisito di questo evento"
+
+msgid "This may already exist:"
+msgstr "Potrebbe esistere già:"
+
+msgid "Create a different resource called \"{name}\""
+msgstr "Crea una risorsa diversa chiamata \"{name}\""
+
+msgid "Resource category?"
+msgstr "Categoria della risorsa?"
+
+msgid "New place"
+msgstr "Nuovo luogo"
+
+msgid "Place name?"
+msgstr "Nome del luogo?"
+
+msgid "Which venue?"
+msgstr "Quale spazio?"
+
+msgid "Which specific place or object?"
+msgstr "Quale luogo o oggetto specifico?"
+
+msgid "New venue"
+msgstr "Nuovo spazio"
+
+msgid "New place or object"
+msgstr "Nuovo luogo o oggetto"
+
+msgid "Type?"
+msgstr "Tipo?"
+
+msgid "Venue name?"
+msgstr "Nome dello spazio?"
+
+msgid "How many people can you host?"
+msgstr "Quante persone puoi ospitare?"
+
+msgid "Unit? (for example bed, hour, eur)"
+msgstr "Unità? (per esempio bed, hour, eur)"
+
+msgid "Attach a specific place or object? Optional."
+msgstr "Vuoi associare un luogo o un oggetto specifico? Facoltativo."
+
+msgid "Choose the subject of this observation."
+msgstr "Scegli l’oggetto di questa osservazione."
+
+msgid "A person or group"
+msgstr "Una persona o un gruppo"
+
+msgid "A need / resource"
+msgstr "Un bisogno / una risorsa"
+
+msgid "A place"
+msgstr "Un luogo"
+
+msgid "The event"
+msgstr "L’evento"
+
+msgid "An object"
+msgstr "Un oggetto"
+
+msgid "A relationship"
+msgstr "Una relazione"
+
+msgid "Something new"
+msgstr "Qualcosa di nuovo"
+
+msgid "What is your observation about?"
+msgstr "Di che cosa tratta la tua osservazione?"
+
+msgid "Choose the source."
+msgstr "Scegli la fonte."
+
+msgid "Add something to the world"
+msgstr "Aggiungi qualcosa al mondo"
+
+msgid "Share an observation"
+msgstr "Condividi un’osservazione"
+
+msgid "Introduce people"
+msgstr "Presenta delle persone"
+
+msgid "Withdraw something"
+msgstr "Ritira qualcosa"
+
+msgid "Decline a proposed connection"
+msgstr "Rifiuta un collegamento proposto"
+
+msgid "{verified} / {minimum} {unit} secured."
+msgstr "{verified} / {minimum} {unit} assicurati."
+
+msgid "Offered: {offered}/{minimum} · committed: {committed}/{minimum} · verified: {verified}/{minimum}"
+msgstr "Offerti: {offered}/{minimum} · impegnati: {committed}/{minimum} · verificati: {verified}/{minimum}"
+
+msgid "Known offers"
+msgstr "Offerte note"
+
+msgid "none"
+msgstr "nessuna"
+
+msgid "different constraints; not currently a match"
+msgstr "vincoli diversi; al momento non corrisponde"
+
+msgid "already allocated to another need"
+msgstr "già assegnato a un altro bisogno"
+
+msgid "Confirm your commitment?"
+msgstr "Confermi il tuo impegno?"
+
+msgid "WAITING — the provider must confirm their commitment."
+msgstr "IN ATTESA — chi offre deve confermare il proprio impegno."
+
+msgid "Offer recorded. No matching move yet; check dates, location, unit and any required venue."
+msgstr "Offerta registrata. Nessuna corrispondenza per ora; controlla date, luogo, unità e lo spazio eventualmente richiesto."
+
+msgid "Connect this offer?"
+msgstr "Colleghi questa offerta?"
+
+msgid "Which need should it support?"
+msgstr "Quale bisogno deve sostenere?"
+
+msgid "Who would you like to ask?"
+msgstr "A chi vuoi chiedere?"
+
+msgid "Ask this person about the condition?"
+msgstr "Vuoi chiedere a questa persona informazioni sulla condizione?"
+
+msgid "Which commitment can you verify?"
+msgstr "Quale impegno puoi verificare?"
+
+msgid "I can provide this"
+msgstr "Posso fornirlo io"
+
+msgid "Someone else can provide it"
+msgstr "Può fornirlo un’altra persona"
+
+msgid "I know someone who might"
+msgstr "Conosco qualcuno che potrebbe"
+
+msgid "Ask someone"
+msgstr "Chiedi a qualcuno"
+
+msgid "Add information"
+msgstr "Aggiungi informazioni"
+
+msgid "Connect a known offer"
+msgstr "Collega un’offerta nota"
+
+msgid "Confirm my commitment"
+msgstr "Conferma il mio impegno"
+
+msgid "b / 0  Back"
+msgstr "b / 0  Indietro"
+
+msgid "Ask them to confirm what they can offer. This does not offer on their behalf."
+msgstr "Chiedi di confermare che cosa possono offrire. Non stai offrendo a nome loro."
+
+msgid "What do you know about this condition?"
+msgstr "Che cosa sai di questa condizione?"
+
+msgid "Connect which offer?"
+msgstr "Quale offerta vuoi collegare?"
+
+msgid "Confirm which commitment?"
+msgstr "Quale impegno vuoi confermare?"
+
+msgid "Work on this condition: offer, ask, connect, confirm, then verify as another player."
+msgstr "Lavora su questa condizione: offri, chiedi, collega, conferma e poi verifica come un altro giocatore."
+
+msgid "POSSIBLE NOW"
+msgstr "POSSIBILE ORA"
+
+msgid "No grounded matches yet. Offer something, add what you know, or explore one unmet need."
+msgstr "Nessuna corrispondenza fondata per ora. Offri qualcosa, aggiungi ciò che sai o esplora un bisogno non soddisfatto."
+
+msgid "Explore unanswered needs?"
+msgstr "Vuoi esplorare i bisogni non soddisfatti?"
+
+msgid "What do you want to work on?"
+msgstr "Su che cosa vuoi lavorare?"
+
+msgid "WHAT NEEDS TO BECOME TRUE"
+msgstr "CHE COSA DEVE DIVENTARE VERO"
+
+msgid "WHAT ELSE CAN I DO"
+msgstr "CHE ALTRO POSSO FARE"
+
+msgid "See new possibilities"
+msgstr "Vedi nuove possibilità"
+
+msgid "History"
+msgstr "Storia"
+
+msgid "OTHER NEEDS DISCOVERED DURING PLAY (not ending conditions)"
+msgstr "ALTRI BISOGNI SCOPERTI GIOCANDO (non sono condizioni finali)"
+
+msgid "r  Requests · 0  Save and exit · ?  Help"
+msgstr "r  Richieste · 0  Salva ed esci · ?  Aiuto"
+
+msgid "s  Switch player — development hot-seat mode"
+msgstr "s  Cambia giocatore — modalità hot-seat di sviluppo"
+
+msgid "Choose an unresolved condition to work on. New needs stay separate from the ending. In forms: b back, 0 cancel, ? help."
+msgstr "Scegli una condizione non risolta su cui lavorare. I nuovi bisogni restano separati dalla fine del gioco. Nei moduli: b indietro, 0 annulla, ? aiuto."
+
+msgid "collective"
+msgstr "gruppo"
+
+msgid "object"
+msgstr "oggetto"
+
+msgid "event"
+msgstr "evento"
+
+msgid "proposition"
+msgstr "proposta"
+
+msgid "resource_already_exists"
+msgstr "Esiste già una risorsa corrispondente. Selezionala oppure scegli esplicitamente una risorsa diversa."
+
+msgid "invalid_relation_signature"
+msgstr "Questa relazione non si applica a questi tipi di entità."
+
+msgid "note_required"
+msgstr "Inserisci l’informazione che vuoi registrare."
+
+msgid "choose_location_or_label"
+msgstr "Scegli un luogo esistente oppure assegnagli un nuovo nome."
+
+msgid "choose_asset_or_label"
+msgstr "Scegli un oggetto o luogo esistente, oppure creane uno nuovo."
+
+msgid "exploration_requires_one_need"
+msgstr "Scegli un bisogno da esplorare."
+
+msgid "> PRESS ENTER"
+msgstr "> PREMI INVIO"
+
+msgid "A book is looking for a gathering."
+msgstr "Un libro cerca un incontro."
+
+msgid "People, places and resources already exist. Some connections are missing."
+msgstr "Ci sono già persone, luoghi e risorse. Mancano alcuni collegamenti."
+
+msgid "Explore the situation. Find what you can contribute. Help make the event happen."
+msgstr "Esplora la situazione. Scopri come puoi contribuire. Aiuta a realizzare l’evento."
+
+msgid "MISSION 01 · Organise the book presentation"
+msgstr "MISSIONE 01 · Organizza la presentazione del libro"
+
+msgid "PROGRESS"
+msgstr "PROGRESSO"
+
+msgid "STOP 01 complete. The book presentation can happen."
+msgstr "TAPPA 01 completata. La presentazione del libro si può fare."
+
+msgid "OBSERVE ECOSYSTEM"
+msgstr "OSSERVA L’ECOSISTEMA"
+
+msgid "ACT"
+msgstr "AGISCI"
+
+msgid "MY CONTRIBUTIONS"
+msgstr "I MIEI CONTRIBUTI"
+
+msgid "JOURNEY / REPLAY"
+msgstr "PERCORSO / RIEPILOGO"
+
+msgid "[s] Switch player"
+msgstr "[s] Cambia giocatore"
+
+msgid "Gathering: {place} · {date} ({status})"
+msgstr "Incontro: {place} · {date} ({status})"
+
+msgid "Presentation conditions"
+msgstr "Condizioni per la presentazione"
+
+msgid "Hube participation"
+msgstr "Partecipazione di Hube"
+
+msgid "Offers"
+msgstr "Offerte"
+
+msgid "Other needs"
+msgstr "Altri bisogni"
+
+msgid "Commitments"
+msgstr "Impegni"
+
+msgid "I can offer"
+msgstr "Posso offrire"
+
+msgid "I am looking for"
+msgstr "Cerco"
+
+msgid "My interests or capabilities"
+msgstr "I miei interessi o le mie competenze"
+
+msgid "Only the details you confirm will be shared. Previously shared details remain in the event log."
+msgstr "Verranno condivisi solo i dettagli che confermi. I dettagli già condivisi restano nel registro degli eventi."
+
+msgid "Press Enter to keep a field as it is. Enter - to clear it."
+msgstr "Premi Invio per mantenere il campo. Digita - per svuotarlo."
+
+msgid "Enter up to {limit} characters."
+msgstr "Inserisci al massimo {limit} caratteri."
+
+msgid "Share these profile details with players?"
+msgstr "Condividere questi dettagli del profilo con i giocatori?"
+
+msgid "Edit shared profile"
+msgstr "Modifica il profilo condiviso"
+
+msgid "You verified"
+msgstr "Hai verificato"
+
+msgid "You could ask {name} about {resource}."
+msgstr "Puoi chiedere a {name} per {resource}."
+
+msgid "profile.shared"
+msgstr "profilo condiviso"
+
+msgid "invalid_profile"
+msgstr "profilo non valido"
+
+msgid "The provider confirms the commitment. Another player verifies it."
+msgstr "Chi offre la risorsa conferma l’impegno. Un altro giocatore lo verifica."
+
+msgid "MY PROFILE"
+msgstr "IL MIO PROFILO"
+
+msgid "I OFFER"
+msgstr "OFFRO"
+
+msgid "I SEEK"
+msgstr "CERCO"
+
+msgid "What can you bring into the world?"
+msgstr "Che cosa puoi portare in questo mondo?"
+
+msgid "Creative"
+msgstr "Creatività"
+
+msgid "Knowledge"
+msgstr "Conoscenze"
+
+msgid "Technical"
+msgstr "Competenze tecniche"
+
+msgid "Material"
+msgstr "Materiali"
+
+msgid "Space"
+msgstr "Spazi"
+
+msgid "Time & Labour"
+msgstr "Tempo e lavoro"
+
+msgid "Connections"
+msgstr "Contatti"
+
+msgid "Communication"
+msgstr "Comunicazione"
+
+msgid "Financial"
+msgstr "Risorse finanziarie"
+
+msgid "Coordination"
+msgstr "Coordinamento"
+
+msgid "Uncategorized"
+msgstr "Senza categoria"
+
+msgid "Interests"
+msgstr "Interessi"
+
+msgid "Capabilities"
+msgstr "Competenze"
+
+msgid "No description yet"
+msgstr "Nessuna descrizione"
+
+msgid "Enter Edit · Space Toggle · Tab Switch · + Add · [ ] Entries · - Remove"
+msgstr "Invio Modifica · Spazio Seleziona · Tab Colonna · + Aggiungi · [ ] Voci · - Rimuovi"
+
+msgid "i Interests · c Capabilities · s Review & share · Esc Cancel"
+msgstr "i Interessi · c Competenze · s Rivedi e condividi · Esc Annulla"
+
+msgid "a Suggest tags"
+msgstr "a Suggerisci categorie"
+
+msgid "Enter Keep draft  ·  Esc Back  ·  {count}/{limit}"
+msgstr "Invio Tieni bozza · Esc Indietro · {count}/{limit}"
+
+msgid "REVIEW SHARED PROFILE"
+msgstr "RIVEDI IL PROFILO CONDIVISO"
+
+msgid "Previously shared details remain in the event log."
+msgstr "I dettagli già condivisi restano nel registro degli eventi."
+
+msgid "y Confirm changes  ·  ↑ ↓ Review  ·  Esc Back"
+msgstr "y Conferma · ↑ ↓ Rivedi · Esc Indietro"
+
+msgid "No profile changes to share."
+msgstr "Nessuna modifica al profilo da condividere."
+
+msgid "Clear field"
+msgstr "Svuota il campo"
+
+msgid "Write a description for each entry, or remove the draft."
+msgstr "Scrivi una descrizione per ogni voce oppure rimuovi la bozza."
+
+msgid "SUGGESTED CATEGORIES"
+msgstr "CATEGORIE SUGGERITE"
+
+msgid "Send this draft description to the optional assistant?"
+msgstr "Inviare questa bozza all’assistente facoltativo?"
+
+msgid "y Continue · Esc Back"
+msgstr "y Continua · Esc Indietro"
+
+msgid "No category suggestions."
+msgstr "Nessun suggerimento per le categorie."
+
+msgid "y Add to draft · ↑ ↓ Review · Esc Back"
+msgstr "y Aggiungi alla bozza · ↑ ↓ Rivedi · Esc Indietro"
+
+msgid "POTENTIAL CONNECTIONS"
+msgstr "COLLEGAMENTI POTENZIALI"
+
+msgid "Potential connections from shared profile categories"
+msgstr "Collegamenti potenziali tra categorie condivise"
+
+msgid "Category overlap suggests a conversation. Offers, commitments and verification use the game actions."
+msgstr "Le categorie in comune suggeriscono un dialogo. Usa le azioni di gioco per offrire, impegnarti e verificare."
+
+msgid "No potential connections yet."
+msgstr "Nessun collegamento potenziale per ora."
+
+msgid "Inspect a potential connection"
+msgstr "Esplora un collegamento potenziale"
+
+msgid "Profile categories offered: {covered}/{total} · Potential connections: {pairs}"
+msgstr "Categorie offerte nei profili: {covered}/{total} · Collegamenti potenziali: {pairs}"
+
+msgid "Related mission condition: {condition}"
+msgstr "Condizione di missione collegata: {condition}"
+
+msgid "See available game actions?"
+msgstr "Vedere le azioni di gioco disponibili?"
+
+msgid "Introduce these players"
+msgstr "Presenta questi giocatori"
+
+msgid "Choose an action"
+msgstr "Scegli un’azione"
+
+msgid "Continue with this action?"
+msgstr "Procedere con questa azione?"
+
+msgid "Ask {name} about {resource}"
+msgstr "Chiedi a {name} per {resource}"
+
+msgid "Your profile may help with {condition}."
+msgstr "Il tuo profilo potrebbe essere utile per {condition}."
+
+msgid "invalid_declaration"
+msgstr "dichiarazione non valida"
+
+msgid "stale_declaration"
+msgstr "la dichiarazione è stata aggiornata"
+
+msgid "unknown_category"
+msgstr "categoria sconosciuta"
+
+msgid "declarations.edited"
+msgstr "dichiarazioni aggiornate"
+
+msgid "STOP 01 · Organise the book presentation"
+msgstr "STOP 01 · Organizza la presentazione del libro"
+
+msgid "Mission"
+msgstr "Missione"
+
+msgid "Choose a player to act"
+msgstr "Scegli con chi giocare"
+
+msgid "Disposable simulation"
+msgstr "Simulazione temporanea"
+
+msgid "End simulation"
+msgstr "Termina la simulazione"
+
+msgid "Explore the world"
+msgstr "Esplora il mondo"
+
+msgid "Work on STOP 01"
+msgstr "Lavora su STOP 01"
+
+msgid "About me"
+msgstr "Profilo"
+
+msgid "My contributions"
+msgstr "I miei contributi"
+
+msgid "Possibilities"
+msgstr "Possibilità"
+
+msgid "Journey"
+msgstr "Percorso"
+
+msgid "Directory"
+msgstr "Elenco"
+
+msgid "Network"
+msgstr "Rete"
+
+msgid "Not found"
+msgstr "Da trovare"
+
+msgid "Verified"
+msgstr "Verificato"
+
+msgid "Confirmed"
+msgstr "Confermato"
+
+msgid "Proposed"
+msgstr "Proposto"
+
+msgid "Offered"
+msgstr "Offerto"
+
+msgid "Awaiting confirmation"
+msgstr "In attesa di conferma"
+
+msgid "Contribution offered"
+msgstr "Contributo offerto"
+
+msgid "Something asked"
+msgstr "Richiesta"
+
+msgid "What we need"
+msgstr "Cosa ci serve"
+
+msgid "All relationships"
+msgstr "Tutte le relazioni"
+
+msgid "All objects"
+msgstr "Tutti gli oggetti"
+
+msgid "Declared"
+msgstr "Dichiarato"
+
+msgid "Inferred"
+msgstr "Dedotto"
+
+msgid "Established"
+msgstr "Accertato"
+
+msgid "Enlarge the terminal to see the graph."
+msgstr "Allarga il terminale per vedere la rete."
+
+msgid "Book presentation"
+msgstr "Presentazione del libro"
+
+msgid "Found · {found}/{total}   Confirmed · {confirmed}/{total}   Verified · {verified}/{total}"
+msgstr "Trovati · {found}/{total}   Confermati · {confirmed}/{total}   Verificati · {verified}/{total}"
+
+msgid "What can I bring into the world?"
+msgstr "Che cosa posso portare nel mondo?"
+
+msgid "Uncategorised"
+msgstr "Senza categoria"
+
+msgid "No entry selected"
+msgstr "Nessuna voce selezionata"
+
+msgid "Description needed"
+msgstr "Serve una descrizione"
+
+msgid "Saved entry"
+msgstr "Voce salvata"
+
+msgid "Unsaved draft"
+msgstr "Bozza non salvata"
+
+msgid "Entry {number} needs a description. Press Enter to edit."
+msgstr "La voce {number} richiede una descrizione. Premi Invio per modificarla."
+
+msgid "Enter Share profile · ↑↓ Review · Esc/b Back"
+msgstr "Invio Condividi profilo · ↑↓ Rivedi · Esc/b Indietro"
+
+msgid "Your draft will be here when you return."
+msgstr "La bozza resta disponibile quando torni."
+
+msgid "Search people"
+msgstr "Cerca persone"
+
+msgid "No people match your search."
+msgstr "Nessuna persona corrisponde alla ricerca."
+
+msgid "Nothing currently shared"
+msgstr "Nessuna voce condivisa al momento"
+
+msgid "Unknown"
+msgstr "Sconosciuto"
+
+msgid "Contribution"
+msgstr "Contributo"
+
+msgid "Correct the place name"
+msgstr "Correggi il nome del luogo"
+
+msgid "Correct place name"
+msgstr "Correggi il nome del luogo"
+
+msgid "Correct place name to {name}?"
+msgstr "Correggere il nome del luogo in {name}?"
+
+msgid "Edit contribution"
+msgstr "Modifica il contributo"
+
+msgid "Withdraw contribution"
+msgstr "Ritira il contributo"
+
+msgid "Withdraw this contribution?"
+msgstr "Ritirare il contributo?"
+
+msgid "Presentation proposals"
+msgstr "Proposte di presentazione"
+
+msgid "Propose a presentation"
+msgstr "Proponi una presentazione"
+
+msgid "Candidate complete"
+msgstr "Presentazione candidata completa"
+
+msgid "Proposed presentation"
+msgstr "Presentazione proposta"
+
+msgid "Proposed city"
+msgstr "Città proposta"
+
+msgid "Proposed date (YYYY-MM-DD)"
+msgstr "Data proposta (AAAA-MM-GG)"
+
+msgid "Proposed venue (optional)"
+msgstr "Sede proposta (facoltativa)"
+
+msgid "Venue not found"
+msgstr "Sede da trovare"
+
+msgid "Declare my availability"
+msgstr "Dichiara la mia disponibilità"
+
+msgid "Explore existing proposals"
+msgstr "Esplora le proposte esistenti"
+
+msgid "Ask about this presentation"
+msgstr "Chiedi di questa presentazione"
+
+msgid "Contextual requests"
+msgstr "Richieste contestuali"
+
+msgid "Request confirmation"
+msgstr "Chiedi conferma"
+
+msgid "Ask an existing player"
+msgstr "Chiedi a chi già gioca"
+
+msgid "Invite someone new"
+msgstr "Invita una nuova persona"
+
+msgid "Leave an open request"
+msgstr "Lascia una richiesta aperta"
+
+msgid "Local invitation"
+msgstr "Invito locale"
+
+msgid "Use this token with the same local save."
+msgstr "Usa questo codice con lo stesso salvataggio locale."
+
+msgid "I can help"
+msgstr "Posso aiutare"
+
+msgid "I need more information"
+msgstr "Mi servono altre informazioni"
+
+msgid "I cannot help"
+msgstr "Non posso aiutare"
+
+msgid "This invitation is unavailable."
+msgstr "Questo invito non è disponibile."
+
+msgid "Organiser confirmation"
+msgstr "Conferma di chi organizza"
+
+msgid "Player confirmation"
+msgstr "Conferma di chi gioca"
+
+msgid "Recorded offers · {recorded}"
+msgstr "Offerte registrate · {recorded}"
+
+msgid "Compatible offers · {compatible}"
+msgstr "Offerte compatibili · {compatible}"
+
+msgid "Different resource"
+msgstr "Risorsa diversa"
+
+msgid "Different unit"
+msgstr "Unità diversa"
+
+msgid "Different location"
+msgstr "Luogo diverso"
+
+msgid "Availability starts too late"
+msgstr "La disponibilità inizia troppo tardi"
+
+msgid "Availability ends too early"
+msgstr "La disponibilità termina troppo presto"
+
+msgid "A specific suitable place or object is needed"
+msgstr "Serve un luogo o un oggetto adatto"
+
+msgid "Yes"
+msgstr "Sì"
+
+msgid "No"
+msgstr "No"

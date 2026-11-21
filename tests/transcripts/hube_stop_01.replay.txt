@@ -1,0 +1,190 @@
+HUBE / STOP 01
+────────────────────────────────────────
+The event does not exist yet.
+Marco is here. Andres coordinates. Editor has books.
+Marco                    ✓
+Books                    ✓
+Venue                    ?
+Date                     ?
+Accommodation            ?
+Documentation            ?
+2 / 6
+
+MARCO
+I know Giulia.
+
+WORLD MUTATION
+Giulia entered the world.
+
+GRAPH CHANGE
+Marco ──knows──▶ Giulia
+
+PLAYER X
+I found Sala Comune.
+
+WORLD MUTATION
+Sala Comune entered the world.
+
+GRAPH CHANGE
+Player X ──suggests──▶ Sala Comune
+
+PLAYER X
+I can offer 1 venue: Venue. Sala Comune.
+
+GRAPH CHANGE
+Player X ──offers──▶ Venue
+1 venue · Bologna · 2026-11-14 → 2026-11-14
+
+NEW POSSIBILITY
+HUBE / STOP 01 needs Venue.
+Player X can provide it.
+A connection is possible; nobody is committed yet.
+
+MARCO
+I need 2 bed: Accommodation.
+
+GRAPH CHANGE
+Marco ──needs──▶ Accommodation
+2 bed · Bologna · 2026-11-14 → 2026-11-14
+
+PLAYER X
+I can offer 2 bed: Accommodation.
+
+GRAPH CHANGE
+Player X ──offers──▶ Accommodation
+2 bed · Bologna · 2026-11-14 → 2026-11-14
+
+NEW POSSIBILITY
+HUBE / STOP 01 needs Accommodation.
+Player X can provide it.
+A connection is possible; nobody is committed yet.
+
+NEW POSSIBILITY
+Marco needs Accommodation.
+Player X can provide it.
+A connection is possible; nobody is committed yet.
+
+ANDRES
+Connect Player X’s offer to Venue.
+
+GRAPH CHANGE
+Player X ──satisfies──▶ Venue
+Proposed connection — waiting for the provider.
+
+PLAYER X
+I confirm this commitment.
+
+WORLD MUTATION
+Player X → Venue: proposed → committed
+
+EDITOR
+I verify this commitment.
+Fictional venue confirmation: Sala Comune, 14 November.
+
+WORLD MUTATION
+Player X → Venue: committed → verified
+
+THRESHOLD CROSSED
+Venue is now secured.
+3 / 6
+
+ANDRES
+Connect Player X’s offer to Accommodation.
+
+GRAPH CHANGE
+Player X ──satisfies──▶ Accommodation
+Proposed connection — waiting for the provider.
+
+PLAYER X
+I confirm this commitment.
+
+WORLD MUTATION
+Player X → Accommodation: proposed → committed
+
+EDITOR
+I verify this commitment.
+Fictional confirmation: Player X provides two beds.
+
+WORLD MUTATION
+Player X → Accommodation: committed → verified
+
+THRESHOLD CROSSED
+Accommodation is now secured.
+4 / 6
+
+ANDRES
+I can offer 1 confirmation: Date.
+
+GRAPH CHANGE
+Andres ──offers──▶ Date
+1 confirmation · Bologna · 2026-11-14 → 2026-11-14
+
+NEW POSSIBILITY
+HUBE / STOP 01 needs Date.
+Andres can provide it.
+A connection is possible; nobody is committed yet.
+
+ANDRES
+Connect Andres’s offer to Date.
+
+GRAPH CHANGE
+Andres ──satisfies──▶ Date
+Proposed connection — waiting for the provider.
+
+ANDRES
+I confirm this commitment.
+
+WORLD MUTATION
+Andres → Date: proposed → committed
+
+MARCO
+I verify this commitment.
+Fictional confirmation: proposed date is agreed.
+
+WORLD MUTATION
+Andres → Date: committed → verified
+
+THRESHOLD CROSSED
+Date is now secured.
+5 / 6
+
+EDITOR
+I can offer 1 commitment: Documentation.
+
+GRAPH CHANGE
+Editor ──offers──▶ Documentation
+1 commitment · Bologna · 2026-11-14 → 2026-11-14
+
+NEW POSSIBILITY
+HUBE / STOP 01 needs Documentation.
+Editor can provide it.
+A connection is possible; nobody is committed yet.
+
+ANDRES
+Connect Editor’s offer to Documentation.
+
+GRAPH CHANGE
+Editor ──satisfies──▶ Documentation
+Proposed connection — waiting for the provider.
+
+EDITOR
+I confirm this commitment.
+
+WORLD MUTATION
+Editor → Documentation: proposed → committed
+
+MARCO
+I verify this commitment.
+Fictional confirmation: Editor will document the event.
+
+WORLD MUTATION
+Editor → Documentation: committed → verified
+
+THRESHOLD CROSSED
+Documentation is now secured.
+6 / 6
+
+THE GAME IS OVER.
+HUBE / STOP 01
+THE THING CAN HAPPEN.
+

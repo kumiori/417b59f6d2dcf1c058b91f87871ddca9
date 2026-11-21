@@ -1,0 +1,15 @@
+{
+  "version": "hube/1",
+  "categories": {
+    "creative": "Creative",
+    "knowledge": "Knowledge",
+    "technical": "Technical",
+    "material": "Material",
+    "space": "Space",
+    "time_labour": "Time & Labour",
+    "connections": "Connections",
+    "communication": "Communication",
+    "financial": "Financial",
+    "coordination": "Coordination"
+  }
+}

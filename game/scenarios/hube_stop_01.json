@@ -1,0 +1,173 @@
+{
+  "fixture": "hube-stop-01",
+  "description": "Four simulated players discover a venue, report a need, offer capacity, propose connections, confirm and independently verify four missing conditions.",
+  "initial": {
+    "feasible": false,
+    "satisfied": 2,
+    "total": 6
+  },
+  "commands": [
+    {
+      "kind": "observe",
+      "node_kind": "person",
+      "label": "Giulia",
+      "relation_kind": "knows",
+      "key": "command-000002",
+      "actor": "person_001"
+    },
+    {
+      "kind": "observe",
+      "node_kind": "place",
+      "label": "Sala Comune",
+      "relation_kind": "suggests",
+      "key": "command-000003",
+      "actor": "person_004"
+    },
+    {
+      "kind": "offer",
+      "resource_id": "resource_003",
+      "quantity": 1,
+      "unit": "venue",
+      "location_id": "place_001",
+      "available_from": "2026-11-14",
+      "available_until": "2026-11-14",
+      "asset_id": "place_000003",
+      "key": "command-000004",
+      "actor": "person_004"
+    },
+    {
+      "kind": "need",
+      "resource_id": "resource_005",
+      "quantity": 2,
+      "unit": "bed",
+      "location_id": "place_001",
+      "available_from": "2026-11-14",
+      "available_until": "2026-11-14",
+      "key": "command-000005",
+      "actor": "person_001"
+    },
+    {
+      "kind": "offer",
+      "resource_id": "resource_005",
+      "quantity": 2,
+      "unit": "bed",
+      "location_id": "place_001",
+      "available_from": "2026-11-14",
+      "available_until": "2026-11-14",
+      "key": "command-000006",
+      "actor": "person_004"
+    },
+    {
+      "kind": "act",
+      "possibility_id": "match:rel_005:rel_000004",
+      "key": "command-000007",
+      "actor": "person_002"
+    },
+    {
+      "kind": "confirm",
+      "subject": "rel_000007",
+      "key": "command-000008",
+      "actor": "person_004"
+    },
+    {
+      "kind": "verify",
+      "subject": "rel_000007",
+      "evidence_kind": "player_confirmation",
+      "reference": "Fictional venue confirmation: Sala Comune, 14 November.",
+      "key": "command-000009",
+      "actor": "person_003"
+    },
+    {
+      "kind": "act",
+      "possibility_id": "match:rel_007:rel_000006",
+      "key": "command-000010",
+      "actor": "person_002"
+    },
+    {
+      "kind": "confirm",
+      "subject": "rel_000010",
+      "key": "command-000011",
+      "actor": "person_004"
+    },
+    {
+      "kind": "verify",
+      "subject": "rel_000010",
+      "evidence_kind": "player_confirmation",
+      "reference": "Fictional confirmation: Player X provides two beds.",
+      "key": "command-000012",
+      "actor": "person_003"
+    },
+    {
+      "kind": "offer",
+      "resource_id": "resource_004",
+      "quantity": 1,
+      "unit": "confirmation",
+      "location_id": "place_001",
+      "available_from": "2026-11-14",
+      "available_until": "2026-11-14",
+      "key": "command-000013",
+      "actor": "person_002"
+    },
+    {
+      "kind": "act",
+      "possibility_id": "match:rel_006:rel_000013",
+      "key": "command-000014",
+      "actor": "person_002"
+    },
+    {
+      "kind": "confirm",
+      "subject": "rel_000014",
+      "key": "command-000015",
+      "actor": "person_002"
+    },
+    {
+      "kind": "verify",
+      "subject": "rel_000014",
+      "evidence_kind": "player_confirmation",
+      "reference": "Fictional confirmation: proposed date is agreed.",
+      "key": "command-000016",
+      "actor": "person_001"
+    },
+    {
+      "kind": "offer",
+      "resource_id": "resource_006",
+      "quantity": 1,
+      "unit": "commitment",
+      "location_id": "place_001",
+      "available_from": "2026-11-14",
+      "available_until": "2026-11-14",
+      "key": "command-000017",
+      "actor": "person_003"
+    },
+    {
+      "kind": "act",
+      "possibility_id": "match:rel_008:rel_000017",
+      "key": "command-000018",
+      "actor": "person_002"
+    },
+    {
+      "kind": "confirm",
+      "subject": "rel_000018",
+      "key": "command-000019",
+      "actor": "person_003"
+    },
+    {
+      "kind": "verify",
+      "subject": "rel_000018",
+      "evidence_kind": "player_confirmation",
+      "reference": "Fictional confirmation: Editor will document the event.",
+      "key": "command-000020",
+      "actor": "person_001"
+    }
+  ],
+  "expected": {
+    "feasible": true,
+    "satisfied": 6,
+    "total": 6,
+    "event_count": 20,
+    "venue_id": "place_000003",
+    "venue_label": "Sala Comune",
+    "independent_verifications": 4
+  },
+  "terminal_input": "1\n1\nGiulia\n9\n4\n1\n2\nSala Comune\n2\n1\n3\n1\n2\n1\n2026-11-14\n2026-11-14\n9\n1\n3\n3\n1\n2\n1\n1\n2026-11-14\n2026-11-14\n9\n4\n2\n3\n1\n2\n1\n1\n2026-11-14\n2026-11-14\n9\n2\n5\n1\n9\n4\n10\n1\n9\n3\n11\n1\n2\nFictional venue confirmation: Sala Comune, 14 November.\n9\n2\n5\n1\n9\n4\n10\n1\n9\n3\n11\n1\n2\nFictional confirmation: Player X provides two beds.\n9\n2\n2\n2\n1\n1\n3\n1\n2026-11-14\n2026-11-14\n5\n1\n10\n1\n9\n1\n11\n1\n2\nFictional confirmation: proposed date is agreed.\n9\n3\n2\n4\n1\n1\n4\n1\n2026-11-14\n2026-11-14\n9\n2\n5\n1\n9\n3\n10\n1\n9\n1\n11\n1\n2\nFictional confirmation: Editor will document the event.\n"
+}

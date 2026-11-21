@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.egg-info/
+.venv/
+.hube.sqlite*
+build/
+dist/
+# Reconstructable heavy tag diagnostics; keep numerical manifests and trajectories.
+output/**/frames/
+output/**/registered/
+output/**/masks/
+output/**/*.avi
+output/**/*.mp4

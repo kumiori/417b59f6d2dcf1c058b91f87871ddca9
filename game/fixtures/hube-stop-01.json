@@ -1,0 +1,428 @@
+{
+  "nodes": {
+    "person_001": {
+      "id": "person_001",
+      "kind": "person",
+      "label": "Marco",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {
+        "playable": true
+      }
+    },
+    "person_002": {
+      "id": "person_002",
+      "kind": "person",
+      "label": "Andres",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {
+        "playable": true
+      }
+    },
+    "person_003": {
+      "id": "person_003",
+      "kind": "person",
+      "label": "Editor",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {
+        "playable": true
+      }
+    },
+    "person_004": {
+      "id": "person_004",
+      "kind": "person",
+      "label": "Player X",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {
+        "playable": true
+      }
+    },
+    "place_001": {
+      "id": "place_001",
+      "kind": "place",
+      "label": "Bologna",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "event_001": {
+      "id": "event_001",
+      "kind": "event",
+      "label": "HUBE / STOP 01",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "provisional",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {
+        "feasibility": "hypothetical",
+        "proposed_date": "2026-11-14",
+        "location_id": "place_001",
+        "fixture": "hube-stop-01"
+      }
+    },
+    "object_001": {
+      "id": "object_001",
+      "kind": "object",
+      "label": "Books",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "resource_003": {
+      "id": "resource_003",
+      "kind": "resource",
+      "label": "Venue",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "resource_004": {
+      "id": "resource_004",
+      "kind": "resource",
+      "label": "Date",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "resource_005": {
+      "id": "resource_005",
+      "kind": "resource",
+      "label": "Accommodation",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "resource_006": {
+      "id": "resource_006",
+      "kind": "resource",
+      "label": "Documentation",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    }
+  },
+  "relations": {
+    "rel_001": {
+      "id": "rel_001",
+      "source_id": "person_001",
+      "target_id": "event_001",
+      "kind": "participates_in",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {},
+      "metadata": {}
+    },
+    "rel_002": {
+      "id": "rel_002",
+      "source_id": "person_002",
+      "target_id": "event_001",
+      "kind": "organizes",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {},
+      "metadata": {}
+    },
+    "rel_003": {
+      "id": "rel_003",
+      "source_id": "person_003",
+      "target_id": "object_001",
+      "kind": "holds",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {},
+      "metadata": {}
+    },
+    "rel_004": {
+      "id": "rel_004",
+      "source_id": "event_001",
+      "target_id": "place_001",
+      "kind": "located_in",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {},
+      "metadata": {}
+    },
+    "rel_005": {
+      "id": "rel_005",
+      "source_id": "event_001",
+      "target_id": "resource_003",
+      "kind": "requires",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {
+        "quantity": 1,
+        "unit": "venue",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "required_asset_kind": "place"
+      },
+      "metadata": {}
+    },
+    "rel_006": {
+      "id": "rel_006",
+      "source_id": "event_001",
+      "target_id": "resource_004",
+      "kind": "requires",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {
+        "quantity": 1,
+        "unit": "confirmation",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14"
+      },
+      "metadata": {}
+    },
+    "rel_007": {
+      "id": "rel_007",
+      "source_id": "event_001",
+      "target_id": "resource_005",
+      "kind": "requires",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {
+        "quantity": 2,
+        "unit": "bed",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14"
+      },
+      "metadata": {}
+    },
+    "rel_008": {
+      "id": "rel_008",
+      "source_id": "event_001",
+      "target_id": "resource_006",
+      "kind": "requires",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {
+        "quantity": 1,
+        "unit": "commitment",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14"
+      },
+      "metadata": {}
+    }
+  },
+  "actions": {},
+  "evidence": {
+    "evidence_001": {
+      "id": "evidence_001",
+      "kind": "system_derived",
+      "submitted_by": "system",
+      "submitted_at": "2026-10-06T00:00:00+00:00",
+      "reference": "Fictional scenario seed; not a real-world confirmation.",
+      "content_ref": null,
+      "metadata": {},
+      "schema_version": "0.1"
+    }
+  },
+  "requirements": {
+    "requirement_001": {
+      "id": "requirement_001",
+      "owner_id": "event_001",
+      "kind": "relation_exists",
+      "rule": {
+        "relation_id": "rel_001"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "satisfied",
+      "satisfied_at": "2026-10-06T00:00:00+00:00",
+      "satisfied_by": [
+        "rel_001"
+      ],
+      "metadata": {
+        "label": "Marco"
+      },
+      "schema_version": "0.1"
+    },
+    "requirement_002": {
+      "id": "requirement_002",
+      "owner_id": "event_001",
+      "kind": "relation_exists",
+      "rule": {
+        "relation_id": "rel_003"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "satisfied",
+      "satisfied_at": "2026-10-06T00:00:00+00:00",
+      "satisfied_by": [
+        "rel_003"
+      ],
+      "metadata": {
+        "label": "Books"
+      },
+      "schema_version": "0.1"
+    },
+    "requirement_003": {
+      "id": "requirement_003",
+      "owner_id": "event_001",
+      "kind": "minimum_quantity",
+      "rule": {
+        "demand_id": "rel_005"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "unsatisfied",
+      "satisfied_at": null,
+      "satisfied_by": [],
+      "metadata": {
+        "label": "Venue"
+      },
+      "schema_version": "0.1"
+    },
+    "requirement_004": {
+      "id": "requirement_004",
+      "owner_id": "event_001",
+      "kind": "minimum_quantity",
+      "rule": {
+        "demand_id": "rel_006"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "unsatisfied",
+      "satisfied_at": null,
+      "satisfied_by": [],
+      "metadata": {
+        "label": "Date"
+      },
+      "schema_version": "0.1"
+    },
+    "requirement_005": {
+      "id": "requirement_005",
+      "owner_id": "event_001",
+      "kind": "minimum_quantity",
+      "rule": {
+        "demand_id": "rel_007"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "unsatisfied",
+      "satisfied_at": null,
+      "satisfied_by": [],
+      "metadata": {
+        "label": "Accommodation"
+      },
+      "schema_version": "0.1"
+    },
+    "requirement_006": {
+      "id": "requirement_006",
+      "owner_id": "event_001",
+      "kind": "minimum_quantity",
+      "rule": {
+        "demand_id": "rel_008"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "unsatisfied",
+      "satisfied_at": null,
+      "satisfied_by": [],
+      "metadata": {
+        "label": "Documentation"
+      },
+      "schema_version": "0.1"
+    }
+  }
+}

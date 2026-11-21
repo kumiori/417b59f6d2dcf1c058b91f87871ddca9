@@ -1,0 +1,1212 @@
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Marco >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Che cosa hai osservato?
+  1  persona
+  2  luogo
+  3  risorsa
+  4  relazione
+  0  Annulla
+>
+Nome?
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Marco >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Player X >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Che cosa hai osservato?
+  1  persona
+  2  luogo
+  3  risorsa
+  4  relazione
+  0  Annulla
+>
+Nome?
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Player X >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Risorsa?
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+  5  Nuova risorsa
+  0  Annulla
+>
+Luogo o oggetto specifico?
+  1  Nessuno
+  2  Bologna
+  3  Sala Comune
+  4  Books
+  0  Annulla
+>
+Quantità?
+Unità?
+  1  posto letto
+  2  spazio
+  3  conferma
+  4  impegno
+  5  ora
+  6  altro
+  0  Annulla
+>
+Dove?
+  1  Bologna
+  2  Sala Comune
+  0  Annulla
+>
+Disponibile dal (YYYY-MM-DD)?
+Disponibile fino al (YYYY-MM-DD)?
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Player X >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Marco >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Risorsa?
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+  5  Nuova risorsa
+  0  Annulla
+>
+Luogo o oggetto specifico?
+  1  Nessuno
+  2  Bologna
+  3  Sala Comune
+  4  Books
+  0  Annulla
+>
+Quantità?
+Unità?
+  1  posto letto
+  2  spazio
+  3  conferma
+  4  impegno
+  5  ora
+  6  altro
+  0  Annulla
+>
+Dove?
+  1  Bologna
+  2  Sala Comune
+  0  Annulla
+>
+Disponibile dal (YYYY-MM-DD)?
+Disponibile fino al (YYYY-MM-DD)?
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Marco >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Player X >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Risorsa?
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+  5  Nuova risorsa
+  0  Annulla
+>
+Luogo o oggetto specifico?
+  1  Nessuno
+  2  Bologna
+  3  Sala Comune
+  4  Books
+  0  Annulla
+>
+Quantità?
+Unità?
+  1  posto letto
+  2  spazio
+  3  conferma
+  4  impegno
+  5  ora
+  6  altro
+  0  Annulla
+>
+Dove?
+  1  Bologna
+  2  Sala Comune
+  0  Annulla
+>
+Disponibile dal (YYYY-MM-DD)?
+Disponibile fino al (YYYY-MM-DD)?
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Player X >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Andres >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli una possibilità.
+  1  Player X può offrire 1 spazio di Venue a HUBE / STOP 01.
+  2  Player X può offrire 2 posto letto di Accommodation a HUBE / STOP 01.
+  3  Player X può offrire 2 posto letto di Accommodation a Marco.
+  0  Annulla
+>
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio) — proposto / non verificato
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Andres >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio) — proposto / non verificato
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Player X >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un impegno o una relazione.
+  1  Player X → Venue (proposto) [rel_000007]
+  0  Annulla
+>
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio) — impegnato / non verificato
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Player X >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[ ] Spazio — non soddisfatto (0/1 spazio) — impegnato / non verificato
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+2 / 6 condizioni soddisfatte.
+Editor >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un impegno o una relazione.
+  1  Player X → Venue (impegnato) [rel_000007]
+  0  Annulla
+>
+Prova?
+  1  conferma dell’organizzatore
+  2  conferma di un altro giocatore
+  3  documento
+  4  autodichiarazione
+  0  Annulla
+>
+Riferimento o nota della prova?
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+3 / 6 condizioni soddisfatte.
+Editor >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+3 / 6 condizioni soddisfatte.
+Andres >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli una possibilità.
+  1  Player X può offrire 2 posto letto di Accommodation a HUBE / STOP 01.
+  2  Player X può offrire 2 posto letto di Accommodation a Marco.
+  0  Annulla
+>
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto) — proposto / non verificato
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+3 / 6 condizioni soddisfatte.
+Andres >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto) — proposto / non verificato
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+3 / 6 condizioni soddisfatte.
+Player X >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un impegno o una relazione.
+  1  Player X → Accommodation (proposto) [rel_000010]
+  0  Annulla
+>
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto) — impegnato / non verificato
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+3 / 6 condizioni soddisfatte.
+Player X >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[ ] Alloggio — non soddisfatto (0/2 posto letto) — impegnato / non verificato
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+3 / 6 condizioni soddisfatte.
+Editor >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un impegno o una relazione.
+  1  Player X → Accommodation (impegnato) [rel_000010]
+  0  Annulla
+>
+Prova?
+  1  conferma dell’organizzatore
+  2  conferma di un altro giocatore
+  3  documento
+  4  autodichiarazione
+  0  Annulla
+>
+Riferimento o nota della prova?
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+4 / 6 condizioni soddisfatte.
+Editor >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+4 / 6 condizioni soddisfatte.
+Andres >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Risorsa?
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+  5  Nuova risorsa
+  0  Annulla
+>
+Luogo o oggetto specifico?
+  1  Nessuno
+  2  Bologna
+  3  Sala Comune
+  4  Books
+  0  Annulla
+>
+Quantità?
+Unità?
+  1  posto letto
+  2  spazio
+  3  conferma
+  4  impegno
+  5  ora
+  6  altro
+  0  Annulla
+>
+Dove?
+  1  Bologna
+  2  Sala Comune
+  0  Annulla
+>
+Disponibile dal (YYYY-MM-DD)?
+Disponibile fino al (YYYY-MM-DD)?
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+4 / 6 condizioni soddisfatte.
+Andres >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli una possibilità.
+  1  Andres può offrire 1 conferma di Date a HUBE / STOP 01.
+  0  Annulla
+>
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma) — proposto / non verificato
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+4 / 6 condizioni soddisfatte.
+Andres >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un impegno o una relazione.
+  1  Andres → Date (proposto) [rel_000014]
+  0  Annulla
+>
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma) — impegnato / non verificato
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+4 / 6 condizioni soddisfatte.
+Andres >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[ ] Data — non soddisfatto (0/1 conferma) — impegnato / non verificato
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+4 / 6 condizioni soddisfatte.
+Marco >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un impegno o una relazione.
+  1  Andres → Date (impegnato) [rel_000014]
+  0  Annulla
+>
+Prova?
+  1  conferma dell’organizzatore
+  2  conferma di un altro giocatore
+  3  documento
+  4  autodichiarazione
+  0  Annulla
+>
+Riferimento o nota della prova?
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[✓] Data — soddisfatto (1/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+5 / 6 condizioni soddisfatte.
+Marco >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[✓] Data — soddisfatto (1/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+5 / 6 condizioni soddisfatte.
+Editor >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Risorsa?
+  1  Venue
+  2  Date
+  3  Accommodation
+  4  Documentation
+  5  Nuova risorsa
+  0  Annulla
+>
+Luogo o oggetto specifico?
+  1  Nessuno
+  2  Bologna
+  3  Sala Comune
+  4  Books
+  0  Annulla
+>
+Quantità?
+Unità?
+  1  posto letto
+  2  spazio
+  3  conferma
+  4  impegno
+  5  ora
+  6  altro
+  0  Annulla
+>
+Dove?
+  1  Bologna
+  2  Sala Comune
+  0  Annulla
+>
+Disponibile dal (YYYY-MM-DD)?
+Disponibile fino al (YYYY-MM-DD)?
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[✓] Data — soddisfatto (1/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+5 / 6 condizioni soddisfatte.
+Editor >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[✓] Data — soddisfatto (1/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno)
+5 / 6 condizioni soddisfatte.
+Andres >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli una possibilità.
+  1  Editor può offrire 1 impegno di Documentation a HUBE / STOP 01.
+  0  Annulla
+>
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[✓] Data — soddisfatto (1/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno) — proposto / non verificato
+5 / 6 condizioni soddisfatte.
+Andres >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[✓] Data — soddisfatto (1/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno) — proposto / non verificato
+5 / 6 condizioni soddisfatte.
+Editor >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un impegno o una relazione.
+  1  Editor → Documentation (proposto) [rel_000018]
+  0  Annulla
+>
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[✓] Data — soddisfatto (1/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno) — impegnato / non verificato
+5 / 6 condizioni soddisfatte.
+Editor >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un giocatore.
+  1  Marco
+  2  Andres
+  3  Editor
+  4  Player X
+  0  Annulla
+>
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[✓] Data — soddisfatto (1/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[ ] Documentazione — non soddisfatto (0/1 impegno) — impegnato / non verificato
+5 / 6 condizioni soddisfatte.
+Marco >
+  1  Osserva qualcosa
+  2  Offri qualcosa
+  3  Segnala un bisogno
+  4  Proponi qualcosa
+  5  Agisci su una possibilità
+  6  Scopri le possibilità
+  7  Vedi il mondo
+  8  Vedi la cronologia
+  9  Cambia giocatore
+  10  Conferma un impegno
+  11  Verifica un impegno
+  12  Ritira
+  13  Rifiuta una proposta
+  0  Salva ed esci
+>
+Scegli un impegno o una relazione.
+  1  Editor → Documentation (impegnato) [rel_000018]
+  0  Annulla
+>
+Prova?
+  1  conferma dell’organizzatore
+  2  conferma di un altro giocatore
+  3  documento
+  4  autodichiarazione
+  0  Annulla
+>
+Riferimento o nota della prova?
+Il mondo è cambiato.
+HUBE / STOP 01
+[✓] Marco — soddisfatto
+[✓] Libri — soddisfatto
+[✓] Spazio — soddisfatto (1/1 spazio)
+[✓] Data — soddisfatto (1/1 conferma)
+[✓] Alloggio — soddisfatto (2/2 posto letto)
+[✓] Documentazione — soddisfatto (1/1 impegno)
+6 / 6 condizioni soddisfatte.
+================================
+IL GIOCO È FINITO.
+HUBE / STOP 01
+PUÒ ACCADERE.
+================================

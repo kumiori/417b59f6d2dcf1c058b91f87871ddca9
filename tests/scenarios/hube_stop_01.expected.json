@@ -1,0 +1,1239 @@
+{
+  "nodes": {
+    "person_001": {
+      "id": "person_001",
+      "kind": "person",
+      "label": "Marco",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {
+        "playable": true
+      }
+    },
+    "person_002": {
+      "id": "person_002",
+      "kind": "person",
+      "label": "Andres",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {
+        "playable": true
+      }
+    },
+    "person_003": {
+      "id": "person_003",
+      "kind": "person",
+      "label": "Editor",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {
+        "playable": true
+      }
+    },
+    "person_004": {
+      "id": "person_004",
+      "kind": "person",
+      "label": "Player X",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {
+        "playable": true
+      }
+    },
+    "place_001": {
+      "id": "place_001",
+      "kind": "place",
+      "label": "Bologna",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "event_001": {
+      "id": "event_001",
+      "kind": "event",
+      "label": "HUBE / STOP 01",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "provisional",
+      "schema_version": "0.1",
+      "updated_at": "2026-10-06T00:00:19+00:00",
+      "metadata": {
+        "feasibility": "feasible",
+        "proposed_date": "2026-11-14",
+        "location_id": "place_001",
+        "fixture": "hube-stop-01"
+      }
+    },
+    "object_001": {
+      "id": "object_001",
+      "kind": "object",
+      "label": "Books",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "resource_003": {
+      "id": "resource_003",
+      "kind": "resource",
+      "label": "Venue",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "resource_004": {
+      "id": "resource_004",
+      "kind": "resource",
+      "label": "Date",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "resource_005": {
+      "id": "resource_005",
+      "kind": "resource",
+      "label": "Accommodation",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "resource_006": {
+      "id": "resource_006",
+      "kind": "resource",
+      "label": "Documentation",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "active",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "person_000002": {
+      "id": "person_000002",
+      "kind": "person",
+      "label": "Giulia",
+      "created_at": "2026-10-06T00:00:01+00:00",
+      "created_by": "person_001",
+      "status": "provisional",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    },
+    "place_000003": {
+      "id": "place_000003",
+      "kind": "place",
+      "label": "Sala Comune",
+      "created_at": "2026-10-06T00:00:02+00:00",
+      "created_by": "person_004",
+      "status": "provisional",
+      "schema_version": "0.1",
+      "updated_at": null,
+      "metadata": {}
+    }
+  },
+  "relations": {
+    "rel_001": {
+      "id": "rel_001",
+      "source_id": "person_001",
+      "target_id": "event_001",
+      "kind": "participates_in",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {},
+      "metadata": {}
+    },
+    "rel_002": {
+      "id": "rel_002",
+      "source_id": "person_002",
+      "target_id": "event_001",
+      "kind": "organizes",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {},
+      "metadata": {}
+    },
+    "rel_003": {
+      "id": "rel_003",
+      "source_id": "person_003",
+      "target_id": "object_001",
+      "kind": "holds",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {},
+      "metadata": {}
+    },
+    "rel_004": {
+      "id": "rel_004",
+      "source_id": "event_001",
+      "target_id": "place_001",
+      "kind": "located_in",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {},
+      "metadata": {}
+    },
+    "rel_005": {
+      "id": "rel_005",
+      "source_id": "event_001",
+      "target_id": "resource_003",
+      "kind": "requires",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {
+        "quantity": 1,
+        "unit": "venue",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "required_asset_kind": "place"
+      },
+      "metadata": {}
+    },
+    "rel_006": {
+      "id": "rel_006",
+      "source_id": "event_001",
+      "target_id": "resource_004",
+      "kind": "requires",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {
+        "quantity": 1,
+        "unit": "confirmation",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14"
+      },
+      "metadata": {}
+    },
+    "rel_007": {
+      "id": "rel_007",
+      "source_id": "event_001",
+      "target_id": "resource_005",
+      "kind": "requires",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {
+        "quantity": 2,
+        "unit": "bed",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14"
+      },
+      "metadata": {}
+    },
+    "rel_008": {
+      "id": "rel_008",
+      "source_id": "event_001",
+      "target_id": "resource_006",
+      "kind": "requires",
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_001"
+      ],
+      "attributes": {
+        "quantity": 1,
+        "unit": "commitment",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14"
+      },
+      "metadata": {}
+    },
+    "rel_000002": {
+      "id": "rel_000002",
+      "source_id": "person_001",
+      "target_id": "person_000002",
+      "kind": "knows",
+      "created_at": "2026-10-06T00:00:01+00:00",
+      "created_by": "person_001",
+      "status": "reported",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [],
+      "attributes": {},
+      "metadata": {}
+    },
+    "rel_000003": {
+      "id": "rel_000003",
+      "source_id": "person_004",
+      "target_id": "place_000003",
+      "kind": "suggests",
+      "created_at": "2026-10-06T00:00:02+00:00",
+      "created_by": "person_004",
+      "status": "reported",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [],
+      "attributes": {},
+      "metadata": {}
+    },
+    "rel_000004": {
+      "id": "rel_000004",
+      "source_id": "person_004",
+      "target_id": "resource_003",
+      "kind": "offers",
+      "created_at": "2026-10-06T00:00:03+00:00",
+      "created_by": "person_004",
+      "status": "reported",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [],
+      "attributes": {
+        "quantity": 1,
+        "unit": "venue",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "asset_id": "place_000003"
+      },
+      "metadata": {}
+    },
+    "rel_000005": {
+      "id": "rel_000005",
+      "source_id": "person_001",
+      "target_id": "resource_005",
+      "kind": "needs",
+      "created_at": "2026-10-06T00:00:04+00:00",
+      "created_by": "person_001",
+      "status": "reported",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [],
+      "attributes": {
+        "quantity": 2,
+        "unit": "bed",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14"
+      },
+      "metadata": {}
+    },
+    "rel_000006": {
+      "id": "rel_000006",
+      "source_id": "person_004",
+      "target_id": "resource_005",
+      "kind": "offers",
+      "created_at": "2026-10-06T00:00:05+00:00",
+      "created_by": "person_004",
+      "status": "reported",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [],
+      "attributes": {
+        "quantity": 2,
+        "unit": "bed",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14"
+      },
+      "metadata": {}
+    },
+    "rel_000007": {
+      "id": "rel_000007",
+      "source_id": "person_004",
+      "target_id": "resource_003",
+      "kind": "satisfies",
+      "created_at": "2026-10-06T00:00:06+00:00",
+      "created_by": "person_002",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_000009"
+      ],
+      "attributes": {
+        "quantity": 1,
+        "unit": "venue",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "asset_id": "place_000003",
+        "offer_id": "rel_000004",
+        "demand_id": "rel_005",
+        "action_id": "action_000007"
+      },
+      "metadata": {}
+    },
+    "rel_000010": {
+      "id": "rel_000010",
+      "source_id": "person_004",
+      "target_id": "resource_005",
+      "kind": "satisfies",
+      "created_at": "2026-10-06T00:00:09+00:00",
+      "created_by": "person_002",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_000012"
+      ],
+      "attributes": {
+        "quantity": 2,
+        "unit": "bed",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "offer_id": "rel_000006",
+        "demand_id": "rel_007",
+        "action_id": "action_000010"
+      },
+      "metadata": {}
+    },
+    "rel_000013": {
+      "id": "rel_000013",
+      "source_id": "person_002",
+      "target_id": "resource_004",
+      "kind": "offers",
+      "created_at": "2026-10-06T00:00:12+00:00",
+      "created_by": "person_002",
+      "status": "reported",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [],
+      "attributes": {
+        "quantity": 1,
+        "unit": "confirmation",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14"
+      },
+      "metadata": {}
+    },
+    "rel_000014": {
+      "id": "rel_000014",
+      "source_id": "person_002",
+      "target_id": "resource_004",
+      "kind": "satisfies",
+      "created_at": "2026-10-06T00:00:13+00:00",
+      "created_by": "person_002",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_000016"
+      ],
+      "attributes": {
+        "quantity": 1,
+        "unit": "confirmation",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "offer_id": "rel_000013",
+        "demand_id": "rel_006",
+        "action_id": "action_000014"
+      },
+      "metadata": {}
+    },
+    "rel_000017": {
+      "id": "rel_000017",
+      "source_id": "person_003",
+      "target_id": "resource_006",
+      "kind": "offers",
+      "created_at": "2026-10-06T00:00:16+00:00",
+      "created_by": "person_003",
+      "status": "reported",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [],
+      "attributes": {
+        "quantity": 1,
+        "unit": "commitment",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14"
+      },
+      "metadata": {}
+    },
+    "rel_000018": {
+      "id": "rel_000018",
+      "source_id": "person_003",
+      "target_id": "resource_006",
+      "kind": "satisfies",
+      "created_at": "2026-10-06T00:00:17+00:00",
+      "created_by": "person_002",
+      "status": "verified",
+      "schema_version": "0.1",
+      "valid_from": null,
+      "valid_until": null,
+      "evidence_ids": [
+        "evidence_000020"
+      ],
+      "attributes": {
+        "quantity": 1,
+        "unit": "commitment",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "offer_id": "rel_000017",
+        "demand_id": "rel_008",
+        "action_id": "action_000018"
+      },
+      "metadata": {}
+    }
+  },
+  "actions": {
+    "action_000002": {
+      "id": "action_000002",
+      "kind": "observe",
+      "submitted_at": "2026-10-06T00:00:01+00:00",
+      "submitted_by": "person_001",
+      "actor_ids": [
+        "person_001"
+      ],
+      "target_ids": [
+        "person_000002"
+      ],
+      "status": "accepted",
+      "occurred_at": "2026-10-06T00:00:01+00:00",
+      "payload": {
+        "kind": "observe",
+        "node_kind": "person",
+        "label": "Giulia",
+        "relation_kind": "knows",
+        "key": "command-000002",
+        "actor": "person_001"
+      },
+      "evidence_ids": [],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000003": {
+      "id": "action_000003",
+      "kind": "observe",
+      "submitted_at": "2026-10-06T00:00:02+00:00",
+      "submitted_by": "person_004",
+      "actor_ids": [
+        "person_004"
+      ],
+      "target_ids": [
+        "place_000003"
+      ],
+      "status": "accepted",
+      "occurred_at": "2026-10-06T00:00:02+00:00",
+      "payload": {
+        "kind": "observe",
+        "node_kind": "place",
+        "label": "Sala Comune",
+        "relation_kind": "suggests",
+        "key": "command-000003",
+        "actor": "person_004"
+      },
+      "evidence_ids": [],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000004": {
+      "id": "action_000004",
+      "kind": "offer",
+      "submitted_at": "2026-10-06T00:00:03+00:00",
+      "submitted_by": "person_004",
+      "actor_ids": [
+        "person_004"
+      ],
+      "target_ids": [
+        "resource_003"
+      ],
+      "status": "accepted",
+      "occurred_at": "2026-10-06T00:00:03+00:00",
+      "payload": {
+        "kind": "offer",
+        "resource_id": "resource_003",
+        "quantity": 1,
+        "unit": "venue",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "asset_id": "place_000003",
+        "key": "command-000004",
+        "actor": "person_004"
+      },
+      "evidence_ids": [],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000005": {
+      "id": "action_000005",
+      "kind": "need",
+      "submitted_at": "2026-10-06T00:00:04+00:00",
+      "submitted_by": "person_001",
+      "actor_ids": [
+        "person_001"
+      ],
+      "target_ids": [
+        "resource_005"
+      ],
+      "status": "accepted",
+      "occurred_at": "2026-10-06T00:00:04+00:00",
+      "payload": {
+        "kind": "need",
+        "resource_id": "resource_005",
+        "quantity": 2,
+        "unit": "bed",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "key": "command-000005",
+        "actor": "person_001"
+      },
+      "evidence_ids": [],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000006": {
+      "id": "action_000006",
+      "kind": "offer",
+      "submitted_at": "2026-10-06T00:00:05+00:00",
+      "submitted_by": "person_004",
+      "actor_ids": [
+        "person_004"
+      ],
+      "target_ids": [
+        "resource_005"
+      ],
+      "status": "accepted",
+      "occurred_at": "2026-10-06T00:00:05+00:00",
+      "payload": {
+        "kind": "offer",
+        "resource_id": "resource_005",
+        "quantity": 2,
+        "unit": "bed",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "key": "command-000006",
+        "actor": "person_004"
+      },
+      "evidence_ids": [],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000007": {
+      "id": "action_000007",
+      "kind": "commit",
+      "submitted_at": "2026-10-06T00:00:06+00:00",
+      "submitted_by": "person_002",
+      "actor_ids": [
+        "person_002"
+      ],
+      "target_ids": [
+        "rel_000007",
+        "rel_000004",
+        "rel_005"
+      ],
+      "status": "verified",
+      "occurred_at": "2026-10-06T00:00:06+00:00",
+      "payload": {
+        "kind": "act",
+        "possibility_id": "match:rel_005:rel_000004",
+        "key": "command-000007",
+        "actor": "person_002"
+      },
+      "evidence_ids": [
+        "evidence_000009"
+      ],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000008": {
+      "id": "action_000008",
+      "kind": "confirm",
+      "submitted_at": "2026-10-06T00:00:07+00:00",
+      "submitted_by": "person_004",
+      "actor_ids": [
+        "person_004"
+      ],
+      "target_ids": [
+        "rel_000007"
+      ],
+      "status": "accepted",
+      "occurred_at": "2026-10-06T00:00:07+00:00",
+      "payload": {
+        "kind": "confirm",
+        "subject": "rel_000007",
+        "key": "command-000008",
+        "actor": "person_004"
+      },
+      "evidence_ids": [],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000009": {
+      "id": "action_000009",
+      "kind": "verify",
+      "submitted_at": "2026-10-06T00:00:08+00:00",
+      "submitted_by": "person_003",
+      "actor_ids": [
+        "person_003"
+      ],
+      "target_ids": [
+        "rel_000007"
+      ],
+      "status": "verified",
+      "occurred_at": "2026-10-06T00:00:08+00:00",
+      "payload": {
+        "kind": "verify",
+        "subject": "rel_000007",
+        "evidence_kind": "player_confirmation",
+        "reference": "Fictional venue confirmation: Sala Comune, 14 November.",
+        "key": "command-000009",
+        "actor": "person_003"
+      },
+      "evidence_ids": [
+        "evidence_000009"
+      ],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000010": {
+      "id": "action_000010",
+      "kind": "commit",
+      "submitted_at": "2026-10-06T00:00:09+00:00",
+      "submitted_by": "person_002",
+      "actor_ids": [
+        "person_002"
+      ],
+      "target_ids": [
+        "rel_000010",
+        "rel_000006",
+        "rel_007"
+      ],
+      "status": "verified",
+      "occurred_at": "2026-10-06T00:00:09+00:00",
+      "payload": {
+        "kind": "act",
+        "possibility_id": "match:rel_007:rel_000006",
+        "key": "command-000010",
+        "actor": "person_002"
+      },
+      "evidence_ids": [
+        "evidence_000012"
+      ],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000011": {
+      "id": "action_000011",
+      "kind": "confirm",
+      "submitted_at": "2026-10-06T00:00:10+00:00",
+      "submitted_by": "person_004",
+      "actor_ids": [
+        "person_004"
+      ],
+      "target_ids": [
+        "rel_000010"
+      ],
+      "status": "accepted",
+      "occurred_at": "2026-10-06T00:00:10+00:00",
+      "payload": {
+        "kind": "confirm",
+        "subject": "rel_000010",
+        "key": "command-000011",
+        "actor": "person_004"
+      },
+      "evidence_ids": [],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000012": {
+      "id": "action_000012",
+      "kind": "verify",
+      "submitted_at": "2026-10-06T00:00:11+00:00",
+      "submitted_by": "person_003",
+      "actor_ids": [
+        "person_003"
+      ],
+      "target_ids": [
+        "rel_000010"
+      ],
+      "status": "verified",
+      "occurred_at": "2026-10-06T00:00:11+00:00",
+      "payload": {
+        "kind": "verify",
+        "subject": "rel_000010",
+        "evidence_kind": "player_confirmation",
+        "reference": "Fictional confirmation: Player X provides two beds.",
+        "key": "command-000012",
+        "actor": "person_003"
+      },
+      "evidence_ids": [
+        "evidence_000012"
+      ],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000013": {
+      "id": "action_000013",
+      "kind": "offer",
+      "submitted_at": "2026-10-06T00:00:12+00:00",
+      "submitted_by": "person_002",
+      "actor_ids": [
+        "person_002"
+      ],
+      "target_ids": [
+        "resource_004"
+      ],
+      "status": "accepted",
+      "occurred_at": "2026-10-06T00:00:12+00:00",
+      "payload": {
+        "kind": "offer",
+        "resource_id": "resource_004",
+        "quantity": 1,
+        "unit": "confirmation",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "key": "command-000013",
+        "actor": "person_002"
+      },
+      "evidence_ids": [],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000014": {
+      "id": "action_000014",
+      "kind": "commit",
+      "submitted_at": "2026-10-06T00:00:13+00:00",
+      "submitted_by": "person_002",
+      "actor_ids": [
+        "person_002"
+      ],
+      "target_ids": [
+        "rel_000014",
+        "rel_000013",
+        "rel_006"
+      ],
+      "status": "verified",
+      "occurred_at": "2026-10-06T00:00:13+00:00",
+      "payload": {
+        "kind": "act",
+        "possibility_id": "match:rel_006:rel_000013",
+        "key": "command-000014",
+        "actor": "person_002"
+      },
+      "evidence_ids": [
+        "evidence_000016"
+      ],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000015": {
+      "id": "action_000015",
+      "kind": "confirm",
+      "submitted_at": "2026-10-06T00:00:14+00:00",
+      "submitted_by": "person_002",
+      "actor_ids": [
+        "person_002"
+      ],
+      "target_ids": [
+        "rel_000014"
+      ],
+      "status": "accepted",
+      "occurred_at": "2026-10-06T00:00:14+00:00",
+      "payload": {
+        "kind": "confirm",
+        "subject": "rel_000014",
+        "key": "command-000015",
+        "actor": "person_002"
+      },
+      "evidence_ids": [],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000016": {
+      "id": "action_000016",
+      "kind": "verify",
+      "submitted_at": "2026-10-06T00:00:15+00:00",
+      "submitted_by": "person_001",
+      "actor_ids": [
+        "person_001"
+      ],
+      "target_ids": [
+        "rel_000014"
+      ],
+      "status": "verified",
+      "occurred_at": "2026-10-06T00:00:15+00:00",
+      "payload": {
+        "kind": "verify",
+        "subject": "rel_000014",
+        "evidence_kind": "player_confirmation",
+        "reference": "Fictional confirmation: proposed date is agreed.",
+        "key": "command-000016",
+        "actor": "person_001"
+      },
+      "evidence_ids": [
+        "evidence_000016"
+      ],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000017": {
+      "id": "action_000017",
+      "kind": "offer",
+      "submitted_at": "2026-10-06T00:00:16+00:00",
+      "submitted_by": "person_003",
+      "actor_ids": [
+        "person_003"
+      ],
+      "target_ids": [
+        "resource_006"
+      ],
+      "status": "accepted",
+      "occurred_at": "2026-10-06T00:00:16+00:00",
+      "payload": {
+        "kind": "offer",
+        "resource_id": "resource_006",
+        "quantity": 1,
+        "unit": "commitment",
+        "location_id": "place_001",
+        "available_from": "2026-11-14",
+        "available_until": "2026-11-14",
+        "key": "command-000017",
+        "actor": "person_003"
+      },
+      "evidence_ids": [],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000018": {
+      "id": "action_000018",
+      "kind": "commit",
+      "submitted_at": "2026-10-06T00:00:17+00:00",
+      "submitted_by": "person_002",
+      "actor_ids": [
+        "person_002"
+      ],
+      "target_ids": [
+        "rel_000018",
+        "rel_000017",
+        "rel_008"
+      ],
+      "status": "verified",
+      "occurred_at": "2026-10-06T00:00:17+00:00",
+      "payload": {
+        "kind": "act",
+        "possibility_id": "match:rel_008:rel_000017",
+        "key": "command-000018",
+        "actor": "person_002"
+      },
+      "evidence_ids": [
+        "evidence_000020"
+      ],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000019": {
+      "id": "action_000019",
+      "kind": "confirm",
+      "submitted_at": "2026-10-06T00:00:18+00:00",
+      "submitted_by": "person_003",
+      "actor_ids": [
+        "person_003"
+      ],
+      "target_ids": [
+        "rel_000018"
+      ],
+      "status": "accepted",
+      "occurred_at": "2026-10-06T00:00:18+00:00",
+      "payload": {
+        "kind": "confirm",
+        "subject": "rel_000018",
+        "key": "command-000019",
+        "actor": "person_003"
+      },
+      "evidence_ids": [],
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "action_000020": {
+      "id": "action_000020",
+      "kind": "verify",
+      "submitted_at": "2026-10-06T00:00:19+00:00",
+      "submitted_by": "person_001",
+      "actor_ids": [
+        "person_001"
+      ],
+      "target_ids": [
+        "rel_000018"
+      ],
+      "status": "verified",
+      "occurred_at": "2026-10-06T00:00:19+00:00",
+      "payload": {
+        "kind": "verify",
+        "subject": "rel_000018",
+        "evidence_kind": "player_confirmation",
+        "reference": "Fictional confirmation: Editor will document the event.",
+        "key": "command-000020",
+        "actor": "person_001"
+      },
+      "evidence_ids": [
+        "evidence_000020"
+      ],
+      "metadata": {},
+      "schema_version": "0.1"
+    }
+  },
+  "evidence": {
+    "evidence_001": {
+      "id": "evidence_001",
+      "kind": "system_derived",
+      "submitted_by": "system",
+      "submitted_at": "2026-10-06T00:00:00+00:00",
+      "reference": "Fictional scenario seed; not a real-world confirmation.",
+      "content_ref": null,
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "evidence_000009": {
+      "id": "evidence_000009",
+      "kind": "player_confirmation",
+      "submitted_by": "person_003",
+      "submitted_at": "2026-10-06T00:00:08+00:00",
+      "reference": "Fictional venue confirmation: Sala Comune, 14 November.",
+      "content_ref": null,
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "evidence_000012": {
+      "id": "evidence_000012",
+      "kind": "player_confirmation",
+      "submitted_by": "person_003",
+      "submitted_at": "2026-10-06T00:00:11+00:00",
+      "reference": "Fictional confirmation: Player X provides two beds.",
+      "content_ref": null,
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "evidence_000016": {
+      "id": "evidence_000016",
+      "kind": "player_confirmation",
+      "submitted_by": "person_001",
+      "submitted_at": "2026-10-06T00:00:15+00:00",
+      "reference": "Fictional confirmation: proposed date is agreed.",
+      "content_ref": null,
+      "metadata": {},
+      "schema_version": "0.1"
+    },
+    "evidence_000020": {
+      "id": "evidence_000020",
+      "kind": "player_confirmation",
+      "submitted_by": "person_001",
+      "submitted_at": "2026-10-06T00:00:19+00:00",
+      "reference": "Fictional confirmation: Editor will document the event.",
+      "content_ref": null,
+      "metadata": {},
+      "schema_version": "0.1"
+    }
+  },
+  "requirements": {
+    "requirement_001": {
+      "id": "requirement_001",
+      "owner_id": "event_001",
+      "kind": "relation_exists",
+      "rule": {
+        "relation_id": "rel_001"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "satisfied",
+      "satisfied_at": "2026-10-06T00:00:00+00:00",
+      "satisfied_by": [
+        "rel_001"
+      ],
+      "metadata": {
+        "label": "Marco"
+      },
+      "schema_version": "0.1"
+    },
+    "requirement_002": {
+      "id": "requirement_002",
+      "owner_id": "event_001",
+      "kind": "relation_exists",
+      "rule": {
+        "relation_id": "rel_003"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "satisfied",
+      "satisfied_at": "2026-10-06T00:00:00+00:00",
+      "satisfied_by": [
+        "rel_003"
+      ],
+      "metadata": {
+        "label": "Books"
+      },
+      "schema_version": "0.1"
+    },
+    "requirement_003": {
+      "id": "requirement_003",
+      "owner_id": "event_001",
+      "kind": "minimum_quantity",
+      "rule": {
+        "demand_id": "rel_005"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "satisfied",
+      "satisfied_at": "2026-10-06T00:00:08+00:00",
+      "satisfied_by": [
+        "rel_000007"
+      ],
+      "metadata": {
+        "label": "Venue"
+      },
+      "schema_version": "0.1"
+    },
+    "requirement_004": {
+      "id": "requirement_004",
+      "owner_id": "event_001",
+      "kind": "minimum_quantity",
+      "rule": {
+        "demand_id": "rel_006"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "satisfied",
+      "satisfied_at": "2026-10-06T00:00:15+00:00",
+      "satisfied_by": [
+        "rel_000014"
+      ],
+      "metadata": {
+        "label": "Date"
+      },
+      "schema_version": "0.1"
+    },
+    "requirement_005": {
+      "id": "requirement_005",
+      "owner_id": "event_001",
+      "kind": "minimum_quantity",
+      "rule": {
+        "demand_id": "rel_007"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "satisfied",
+      "satisfied_at": "2026-10-06T00:00:11+00:00",
+      "satisfied_by": [
+        "rel_000010"
+      ],
+      "metadata": {
+        "label": "Accommodation"
+      },
+      "schema_version": "0.1"
+    },
+    "requirement_006": {
+      "id": "requirement_006",
+      "owner_id": "event_001",
+      "kind": "minimum_quantity",
+      "rule": {
+        "demand_id": "rel_008"
+      },
+      "created_at": "2026-10-06T00:00:00+00:00",
+      "created_by": "system",
+      "required": true,
+      "status": "satisfied",
+      "satisfied_at": "2026-10-06T00:00:19+00:00",
+      "satisfied_by": [
+        "rel_000018"
+      ],
+      "metadata": {
+        "label": "Documentation"
+      },
+      "schema_version": "0.1"
+    }
+  }
+}
