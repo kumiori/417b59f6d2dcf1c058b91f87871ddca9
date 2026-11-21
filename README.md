@@ -11,14 +11,15 @@ with its TUI extra for Unicode-aware terminal display. Install this project befo
 
 ```sh
 python3 -m venv .venv
+.venv/bin/python -m pip install --no-deps --require-hashes -r requirements/game-gamer-release.txt
 .venv/bin/python -m pip install -e .
 . .venv/bin/activate
 ```
 
-Git is required during installation: Game-Gamer 0.2.0 is fetched from its
-[standalone repository](https://github.com/kumiori/113a4cce0c9191877e82b1a0b6767a70)
-at commit `439473d6ee94e59d7c0c29ba16ccbbc915c8fb97`. A sibling Commons checkout
-is no longer needed. Installation does not depend on a PyPI release of the core.
+Game-Gamer is installed from the checksum-locked wheel bundled in `vendor/`.
+`config/game-gamer-release.json` records its exact version and immutable source.
+A sibling Commons checkout and a PyPI release of the core are not needed.
+Future upgrades arrive as review-only PRs; see [release propagation](docs/GAMER_RELEASES.md).
 
 ```sh
 .venv/bin/game play
